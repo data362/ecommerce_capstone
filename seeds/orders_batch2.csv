@@ -1,390 +1,390 @@
-order_id	customer_id	order_ts	status	currency	total_amount_text	utm_json	updated_at
-o_2539	c_0560	2025-07-03T13:56:02Z	PAID	EUR	EUR 77.80	{"source": "paid_social", "medium": "paid_social", "campaign": "prospecting"}	03/07/2025 18:19
-o_2540	c_0007	2025-07-03T20:48:41Z	PAID	GBP	GBP 18.54	{"source": "email", "medium": "email", "campaign": "newsletter"}	03/07/2025 21:23
-o_2541	c_0025	2025/07/03 11:18:19-0500	paid	USD	$74.06	{"source": "paid_social", "medium": "paid_social", "campaign": "retargeting"}	03/07/2025 18:43
-o_2542	c_0355	2025-07-03T20:04:42Z	paid	CAD	C$195.22	{"source": "paid_social", "medium": "paid_social", "campaign": "retargeting"}	03/07/2025 15:41
-o_2543	c_0344	2025-07-03T16:30:10Z	PAID	USD	$18.47	{"source": "paid_social", "medium": "paid_social", "campaign": "retargeting"}	03/07/2025 20:58
-o_2544	c_0515	03/07/2025 18:58	PAID	usd	USD 933.78	{"source": "paid_social", "medium": "paid_social", "campaign": "retargeting"}	03/07/2025 17:49
-o_2545	c_0745	2025-07-03T09:10:02Z	PAID	EUR	EUR 94.85	{"source": "display", "medium": "display", "campaign": "nonbrand"}	03/07/2025 16:28
-o_2546	c_0151	2025-07-03T16:54:34Z	paid	USD	USD 99.20	{"source": "paid_social", "medium": "paid_social", "campaign": "retargeting"}	03/07/2025 16:06
-o_2547	c_0543	2025-07-03T13:49:22Z	paid	USD	$48.52	{"source": "paid_social", "medium": "paid_social", "campaign": "retargeting"}	03/07/2025 22:56
-o_2548	c_0430	2025-07-03T08:57:35Z	PAID	USD	USD 14.45	{"source": "paid_social", "medium": "paid_social", "campaign": "prospecting"}	03/07/2025 09:01
-o_2549	c_0062	2025/07/04 15:31:55-0500	PAID	USD	151.68	{"source": "email", "medium": "email", "campaign": "prospecting"}	04/07/2025 08:11
-o_2550	c_0096	2025-07-04T13:14:06Z	Cancelled	EUR	EUR 16.92	{"source": "search", "medium": "cpc", "campaign": "brand"}	04/07/2025 14:19
-o_2551	c_0238	2025-07-04T17:47:33Z	Fulfilled	GBP	GBP 180.03	{"source": "email", "medium": "email", "campaign": "nonbrand"}	04/07/2025 10:33
-o_2552	c_0470	2025-07-04T13:22:27Z	PAID	USD	635,24	{"source": "paid_social", "medium": "paid_social", "campaign": "retargeting"}	04/07/2025 16:40
-o_2553	c_0098	2025/07/04 17:53:34-0500	PAID	USD	USD 22.49	{"source": "paid_social", "medium": "paid_social", "campaign": "retargeting"}	04/07/2025 18:16
-o_2554	c_0137	2025-07-04T10:56:21Z	PAID	USD	$239.49	{"source": "paid_social", "medium": "paid_social", "campaign": "retargeting"}	04/07/2025 14:57
-o_2555	c_0077	2025-07-04T19:37:14Z	Refunded	USD	USD 506.69	{"source": "paid_social", "medium": "paid_social", "campaign": "retargeting"}	04/07/2025 10:49
-o_2556	c_0599	2025-07-04T15:29:40Z	paid	USD	USD 248.31	{"source": "paid_social", "medium": "paid_social", "campaign": "retargeting"}	04/07/2025 08:41
-o_2557	c_0338	2025/07/04 08:17:48-0500	PAID	cad	CAD 145.03	{"source": "paid_social", "medium": "paid_social", "campaign": "newsletter"}	04/07/2025 11:20
-o_2558	c_0268	2025-07-04T21:28:35Z	paid	USD	$126.81	{"source": "search", "medium": "cpc", "campaign": "brand"}	04/07/2025 15:33
-o_2559	c_0542	2025-07-04T14:27:54Z	PAID	USD	USD 691.14	{"source": "paid_social", "medium": "paid_social", "campaign": "retargeting"}	04/07/2025 20:20
-o_2560	c_0438	2025-07-04T20:18:32Z	PAID	EUR	€ 15.02	{"source": "paid_social", "medium": "paid_social", "campaign": "retargeting"}	04/07/2025 12:33
-o_2561	c_0382	2025-07-04T12:21:48Z	PAID	USD	144.61	{"source": "email", "medium": "email", "campaign": "promo"}	04/07/2025 21:38
-o_2562	c_0294	2025-07-04T09:57:27Z	Fulfilled	EUR	€ 199.55	{"source": "search", "medium": "cpc", "campaign": "brand"}	04/07/2025 17:30
-o_2563	c_0112	2025-07-04T16:27:20Z	Refunded	USD	31.84	{"source": "search", "medium": "cpc", "campaign": "brand"}	04/07/2025 17:04
-o_2564	c_0109	2025-07-04T18:12:06Z	paid	USD	$27.36	{"source": "email", "medium": "email", "campaign": "prospecting"}	04/07/2025 21:57
-o_2565	c_0620	2025/07/04 11:02:18-0500	Fulfilled	EUR	€ 277.78	{"source": "email", "medium": "email", "campaign": "promo"}	04/07/2025 12:50
-o_2566	c_0124	2025-07-05T18:10:59Z	Refunded	USD	USD 321.25	{"source": "email", "medium": "email", "campaign": "retargeting"}	05/07/2025 20:23
-o_2567	c_0789	2025-07-05T19:15:33Z	PAID	usd	67.94	{"source": "display", "medium": "display", "campaign": "awareness"}	05/07/2025 22:06
-o_2568	c_0428	2025-07-05T08:10:45Z	Cancelled	CAD	356.36	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	05/07/2025 22:42
-o_2569	c_0093	2025/07/05 15:52:19-0500	PAID	USD	USD 30.43	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	05/07/2025 11:45
-o_2570	c_0424	2025-07-05T11:18:54Z	PAID	USD	$437.95	{"source": "paid_social", "medium": "paid_social", "campaign": "retargeting"}	05/07/2025 22:49
-o_2571	c_0069	2025/07/05 10:04:52-0500	paid	USD	165,25	{"source": "search", "medium": "cpc", "campaign": "newsletter"}	05/07/2025 16:38
-o_2572	c_0152	2025/07/05 16:58:34-0500	Fulfilled	USD	106.97	{"source": "paid_social", "medium": "paid_social", "campaign": "retargeting"}	05/07/2025 21:20
-o_2573	c_0729	05/07/2025 18:38	paid	USD	$194.94	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	05/07/2025 15:08
-o_2574	c_0526	05/07/2025 19:24	paid	EUR	29.58	{"source": "display", "medium": "display", "campaign": "promo"}	05/07/2025 13:30
-o_2575	c_0694	06/07/2025 12:05	PAID	USD	USD 754.05	{"source": "paid_social", "medium": "paid_social", "campaign": "retargeting"}	06/07/2025 16:23
-o_2576	c_0057	2025/07/06 21:42:54-0500	Cancelled	USD	USD 53.57	{"source": "paid_social", "medium": "paid_social", "campaign": "nonbrand"}	06/07/2025 18:04
-o_2577	c_0570	2025-07-06T19:59:09Z	Fulfilled	USD	USD 504.69	{"source": "paid_social", "medium": "paid_social", "campaign": "promo"}	06/07/2025 17:28
-o_2578	c_0751	06/07/2025 17:02	PAID	GBP	£305.08	{"source": "display", "medium": "display", "campaign": "awareness"}	06/07/2025 16:09
-o_2579	c_0474	2025-07-06T15:07:18Z	Cancelled	cad	CAD 136.04	{"source": "search", "medium": "cpc", "campaign": "brand"}	06/07/2025 19:38
-o_2580	c_0176	2025/07/06 12:01:41-0500	Fulfilled	USD	$14.29	{"source": "email", "medium": "email", "campaign": "prospecting"}	06/07/2025 08:33
-o_2581	c_0064	2025-07-06T15:22:24Z	paid	EUR	EUR 46.05	{"source": "display", "medium": "display", "campaign": "awareness"}	06/07/2025 08:01
-o_2582	c_0191	2025/07/07 17:08:19-0500	PAID	USD	USD 64.16	{"source": "search", "medium": "cpc", "campaign": "retargeting"}	07/07/2025 09:09
-o_2583	c_0382	2025-07-07T17:24:37Z	Fulfilled	usd	USD 253.42	{"source": "paid_social", "medium": "paid_social", "campaign": "brand"}	07/07/2025 19:06
-o_2584	c_0646	2025-07-07T10:22:10Z	PAID	EUR	EUR 402.19	{"source": "paid_social", "medium": "paid_social", "campaign": "brand"}	07/07/2025 19:51
-o_2585	c_0087	2025-07-07T09:04:49Z	PAID	CAD	C$692.99	{"source": "email", "medium": "email", "campaign": "promo"}	07/07/2025 10:23
-o_2586	c_0077	2025-07-07T08:26:47Z	paid	usd	$55.37	{"source": "paid_social", "medium": "paid_social", "campaign": "brand"}	07/07/2025 08:09
-o_2587	c_0067	2025-07-07T11:29:37Z	PAID	USD	304,51	{"source": "display", "medium": "display", "campaign": "awareness"}	07/07/2025 21:21
-o_2588	c_0132	2025/07/07 21:44:11-0500	PAID	GBP	GBP 235.95	{"source": "paid_social", "medium": "paid_social", "campaign": "brand"}	07/07/2025 12:31
-o_2589	c_0126	2025-07-07T13:39:10Z	paid	USD	USD 40.23	{"source": "paid_social", "medium": "paid_social", "campaign": "prospecting"}	07/07/2025 17:31
-o_2590	c_0473	2025-07-07T17:11:00Z	paid	USD	18.41	{"source": "search", "medium": "cpc", "campaign": "retargeting"}	07/07/2025 20:12
-o_2591	c_0173	07/07/2025 17:23	PAID	USD	USD 186.96	{"source": "paid_social", "medium": "paid_social", "campaign": "prospecting"}	07/07/2025 11:08
-o_2592	c_0591	2025-07-07T08:56:21Z	PAID	USD	$250.19	{"source": "paid_social", "medium": "paid_social", "campaign": "retargeting"}	07/07/2025 11:17
-o_2593	c_0031	2025-07-07T15:51:25Z	PAID	USD	USD 10.95	{"source": "paid_social", "medium": "paid_social", "campaign": "brand"}	07/07/2025 12:29
-o_2594	c_0700	2025-07-07T07:59:38Z	Refunded	CAD	177.4	{"source": "paid_social", "medium": "paid_social", "campaign": "retargeting"}	07/07/2025 19:16
-o_2595	c_0220	2025-07-07T19:38:08Z	PAID	USD	28.36	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	07/07/2025 16:26
-o_2596	c_0282	2025-07-07T21:10:54Z	paid	USD	USD 196.56	{"source": "paid_social", "medium": "paid_social", "campaign": "prospecting"}	07/07/2025 21:00
-o_2597	c_0061	2025-07-07T07:43:26Z	PAID	USD	854.77	{"source": "search", "medium": "cpc", "campaign": "retargeting"}	07/07/2025 18:59
-o_2598	c_0252	2025/07/07 19:54:48-0500	PAID	EUR	EUR 340.21	{"source": "search", "medium": "cpc", "campaign": "newsletter"}	07/07/2025 16:11
-o_2599	c_0422	2025/07/07 10:07:53-0500	Fulfilled	USD	$16.49	{"source": "paid_social", "medium": "paid_social", "campaign": "retargeting"}	07/07/2025 08:22
-o_2600	c_0491	2025-07-08T10:29:23Z	PAID	CAD	C$198.46	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	08/07/2025 10:39
-o_2601	c_0520	2025/07/08 13:48:15-0500	paid	USD	36.23	{"source": "search", "medium": "cpc", "campaign": "retargeting"}	08/07/2025 11:40
-o_2602	c_0430	08/07/2025 13:32	Fulfilled	usd	$295.06	{"source": "paid_social", "medium": "paid_social", "campaign": "awareness"}	08/07/2025 10:43
-o_2603	c_0539	2025-07-08T19:21:40Z	PAID	USD	161.3	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	08/07/2025 18:36
-o_2604	c_0646	2025-07-08T15:41:49Z	PAID	EUR	€ 16.74	{"source": "paid_social", "medium": "paid_social", "campaign": "brand"}	08/07/2025 10:55
-o_2605	c_0020	2025-07-08T16:09:09Z	PAID	EUR	€ 11.32	{"source": "search", "medium": "cpc", "campaign": "prospecting"}	08/07/2025 18:29
-o_2606	c_0485	2025-07-08T20:31:38Z	paid	USD	$15.01	{"source": "paid_social", "medium": "paid_social", "campaign": "awareness"}	08/07/2025 16:10
-o_2607	c_0558	2025-07-08T21:51:55Z	PAID	USD	USD 12.22	{"source": "paid_social", "medium": "paid_social", "campaign": "brand"}	08/07/2025 13:50
-o_2608	c_0353	2025-07-08T15:17:57Z	paid	cad	C$140.87	{"source": "paid_social", "medium": "paid_social", "campaign": "awareness"}	08/07/2025 20:45
-o_2609	c_0515	2025/07/08 11:01:32-0500	PAID	usd	USD 108.19	{"source": "paid_social", "medium": "paid_social", "campaign": "brand"}	08/07/2025 21:32
-o_2610	c_0398	08/07/2025 21:13	PAID	usd	226,87	{"source": "paid_social", "medium": "paid_social", "campaign": "brand"}	08/07/2025 11:06
-o_2611	c_0185	2025/07/08 12:49:26-0500	PAID	USD	158.91	{"source": "paid_social", "medium": "paid_social", "campaign": "brand"}	08/07/2025 08:08
-o_2612	c_0310	2025/07/09 15:20:01-0500	PAID	usd	USD 385.22	{"source": "display", "medium": "display", "campaign": "nonbrand"}	09/07/2025 12:59
-o_2613	c_0645	09/07/2025 11:36	Fulfilled	USD	USD 150.89	{"source": "search", "medium": "cpc", "campaign": "prospecting"}	09/07/2025 18:51
-o_2614	c_0786	2025/07/09 08:56:21-0500	PAID	cad	C$607.01	{"source": "display", "medium": "display", "campaign": "nonbrand"}	09/07/2025 16:41
-o_2615	c_0229	2025-07-09T21:49:47Z	PAID	USD	$121.07	{"source": "display", "medium": "display", "campaign": "nonbrand"}	09/07/2025 17:36
-o_2616	c_0347	2025/07/09 07:08:20-0500	PAID	USD	399.89	{"source": "search", "medium": "cpc", "campaign": "prospecting"}	09/07/2025 13:44
-o_2617	c_0547	2025-07-09T12:34:13Z	paid	EUR	€ 518.45	{"source": "paid_social", "medium": "paid_social", "campaign": "awareness"}	09/07/2025 17:56
-o_2618	c_0783	2025-07-09T08:29:42Z	PAID	GBP	£412.00	{"source": "email", "medium": "email", "campaign": "brand"}	09/07/2025 19:48
-o_2619	c_0364	2025/07/09 21:15:46-0500	paid	EUR	EUR 26.51	{"source": "email", "medium": "email", "campaign": "brand"}	09/07/2025 10:52
-o_2620	c_0181	2025-07-09T17:50:52Z	PAID	USD	$140.80	{"source": "display", "medium": "display", "campaign": "nonbrand"}	09/07/2025 12:56
-o_2621	c_0607	2025-07-09T19:01:25Z	PAID	GBP	£115.68	{"source": "paid_social", "medium": "paid_social", "campaign": "retargeting"}	09/07/2025 08:05
-o_2622	c_0483	2025-07-09T16:54:26Z	PAID	USD	188.44	{"source": "search", "medium": "cpc", "campaign": "retargeting"}	09/07/2025 18:59
-o_2623	c_0051	2025/07/09 07:51:37-0500	PAID	gbp	577.63	{"source": "email", "medium": "email", "campaign": "brand"}	09/07/2025 14:06
-o_2624	c_0763	2025-07-09T09:23:34Z	PAID	USD	USD 187.34	{"source": "email", "medium": "email", "campaign": "brand"}	09/07/2025 09:23
-o_2625	c_0268	09/07/2025 07:14	Fulfilled	usd	12.25	{"source": "display", "medium": "display", "campaign": "nonbrand"}	09/07/2025 15:44
-o_2626	c_0556	2025-07-09T14:13:47Z	Fulfilled	EUR	EUR 88.97	{"source": "display", "medium": "display", "campaign": "nonbrand"}	09/07/2025 14:57
-o_2627	c_0180	2025-07-09T17:39:49Z	Fulfilled	USD	USD 13.67	{"source": "display", "medium": "display", "campaign": "nonbrand"}	09/07/2025 08:01
-o_2628	c_0039	2025-07-10T11:01:02Z	Fulfilled	EUR	€ 270.41	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	10/07/2025 13:17
-o_2629	c_0084	2025-07-10T17:32:03Z	Fulfilled	GBP	216.08	{"source": "search", "medium": "cpc", "campaign": "retargeting"}	10/07/2025 13:18
-o_2630	c_0310	10/07/2025 18:14	PAID	USD	17.33	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	10/07/2025 18:09
-o_2631	c_0540	2025-07-10T15:13:48Z	paid	USD	$29.86	{"source": "search", "medium": "cpc", "campaign": "promo"}	10/07/2025 19:19
-o_2632	c_0340	2025-07-10T19:03:09Z	Refunded	CAD	C$236.20	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	10/07/2025 20:31
-o_2633	c_0349	2025-07-10T15:01:37Z	Cancelled	usd	USD 940.89	{"source": "search", "medium": "cpc", "campaign": "retargeting"}	10/07/2025 18:20
-o_2634	c_0182	10/07/2025 21:19	PAID	usd	123,27	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	10/07/2025 12:05
-o_2635	c_0061	2025-07-10T17:02:12Z	PAID	usd	USD 16.09	{"source": "search", "medium": "cpc", "campaign": "brand"}	10/07/2025 13:33
-o_2636	c_0152	2025-07-10T14:52:09Z	paid	USD	USD 158.24	{"source": "search", "medium": "cpc", "campaign": "newsletter"}	10/07/2025 11:56
-o_2637	c_0722	10/07/2025 08:25	paid	CAD	371.55	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	10/07/2025 14:27
-o_2638	c_0714	2025-07-10T13:51:41Z	PAID	USD	USD 419.09	{"source": "email", "medium": "email", "campaign": "prospecting"}	10/07/2025 10:23
-o_2639	c_0106	2025-07-10T12:52:41Z	paid	USD	USD 574.38	{"source": "search", "medium": "cpc", "campaign": "brand"}	10/07/2025 18:59
-o_2640	c_0406	2025-07-10T20:47:07Z	PAID	USD	$249.98	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	10/07/2025 17:50
-o_2641	c_0345	2025-07-10T18:01:36Z	PAID	USD	$514.90	{"source": "email", "medium": "email", "campaign": "prospecting"}	10/07/2025 10:03
-o_2642	c_0140	2025/07/10 07:07:51-0500	PAID	usd	USD 33.45	{"source": "search", "medium": "cpc", "campaign": "promo"}	10/07/2025 20:49
-o_2643	c_0750	10/07/2025 19:39	PAID	USD	$21.39	{"source": "search", "medium": "cpc", "campaign": "brand"}	10/07/2025 17:25
-o_2644	c_0655	10/07/2025 16:09	PAID	USD	USD 218.77	{"source": "search", "medium": "cpc", "campaign": "promo"}	10/07/2025 08:24
-o_2645	c_0431	2025-07-11T19:40:59Z	PAID	USD	52,56	{"source": "email", "medium": "email", "campaign": "promo"}	11/07/2025 09:05
-o_2646	c_0711	11/07/2025 12:32	Fulfilled	EUR	EUR 168.09	{"source": "search", "medium": "cpc", "campaign": "brand"}	11/07/2025 18:03
-o_2647	c_0366	2025-07-11T14:05:03Z	PAID	USD	$50.44	{"source": "display", "medium": "display", "campaign": "awareness"}	11/07/2025 20:07
-o_2648	c_0682	2025/07/11 12:53:35-0500	PAID	usd	$211.49	{"source": "paid_social", "medium": "paid_social", "campaign": "nonbrand"}	11/07/2025 18:31
-o_2649	c_0388	2025-07-11T11:42:49Z	paid	USD	USD 93.69	{"source": "paid_social", "medium": "paid_social", "campaign": "nonbrand"}	11/07/2025 16:45
-o_2650	c_0752	2025-07-11T12:19:01Z	PAID	USD	USD 313.38	{"source": "search", "medium": "cpc", "campaign": "newsletter"}	11/07/2025 08:13
-o_2651	c_0302	2025-07-11T16:08:54Z	PAID	CAD	CAD 305.64	{"source": "search", "medium": "cpc", "campaign": "prospecting"}	11/07/2025 19:53
-o_2652	c_0007	2025-07-11T07:09:17Z	Fulfilled	GBP	£284.02	{"source": "display", "medium": "display", "campaign": "awareness"}	11/07/2025 10:10
-o_2653	c_0587	2025-07-11T15:46:53Z	paid	USD	331.53	{"source": "search", "medium": "cpc", "campaign": "prospecting"}	11/07/2025 08:41
-o_2654	c_0034	11/07/2025 17:25	Refunded	USD	USD 211.39	{"source": "paid_social", "medium": "paid_social", "campaign": "nonbrand"}	11/07/2025 12:40
-o_2655	c_0326	2025-07-11T20:04:18Z	PAID	gbp	GBP 159.96	{"source": "search", "medium": "cpc", "campaign": "brand"}	11/07/2025 17:30
-o_2656	c_0227	2025/07/11 09:51:12-0500	PAID	USD	$395.21	{"source": "paid_social", "medium": "paid_social", "campaign": "nonbrand"}	11/07/2025 13:07
-o_2657	c_0107	2025-07-11T19:07:09Z	paid	CAD	C$200.60	{"source": "paid_social", "medium": "paid_social", "campaign": "nonbrand"}	11/07/2025 08:42
-o_2658	c_0764	2025-07-12T13:49:31Z	PAID	usd	USD 243.61	{"source": "search", "medium": "cpc", "campaign": "prospecting"}	12/07/2025 16:21
-o_2659	c_0460	12/07/2025 10:54	Fulfilled	EUR	EUR 171.45	{"source": "paid_social", "medium": "paid_social", "campaign": "promo"}	12/07/2025 16:40
-o_2660	c_0124	2025-07-12T16:40:29Z	PAID	USD	USD 256.40	{"source": "search", "medium": "cpc", "campaign": "brand"}	12/07/2025 21:46
-o_2661	c_0687	2025-07-12T14:10:07Z	PAID	USD	$728.58	{"source": "search", "medium": "cpc", "campaign": "prospecting"}	12/07/2025 16:36
-o_2662	c_0446	2025/07/12 15:39:41-0500	PAID	USD	$11.85	{"source": "search", "medium": "cpc", "campaign": "brand"}	12/07/2025 16:30
-o_2663	c_0025	2025-07-12T08:22:11Z	Refunded	usd	USD 256.39	{"source": "email", "medium": "email", "campaign": "newsletter"}	12/07/2025 12:57
-o_2664	c_0344	2025-07-12T07:04:56Z	paid	USD	$257.06	{"source": "display", "medium": "display", "campaign": "awareness"}	12/07/2025 08:04
-o_2665	c_0098	12/07/2025 08:51	PAID	USD	197,26	{"source": "paid_social", "medium": "paid_social", "campaign": "retargeting"}	12/07/2025 19:22
-o_2666	c_0111	2025/07/12 09:50:39-0500	paid	CAD	CAD 790.40	{"source": "display", "medium": "display", "campaign": "awareness"}	12/07/2025 22:45
-o_2667	c_0050	2025-07-13T08:58:38Z	Refunded	GBP	GBP 12.50	{"source": "display", "medium": "display", "campaign": "retargeting"}	13/07/2025 11:56
-o_2668	c_0449	2025-07-13T10:29:03Z	paid	USD	USD 282.77	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	13/07/2025 21:48
-o_2669	c_0558	2025/07/13 15:51:11-0500	paid	USD	$110.40	{"source": "display", "medium": "display", "campaign": "awareness"}	13/07/2025 15:18
-o_2670	c_0505	2025-07-13T15:07:47Z	PAID	USD	35.24	{"source": "display", "medium": "display", "campaign": "promo"}	13/07/2025 20:18
-o_2671	c_0360	13/07/2025 17:29	PAID	USD	$20.64	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	13/07/2025 20:46
-o_2672	c_0385	2025-07-13T08:19:10Z	paid	USD	$161.26	{"source": "paid_social", "medium": "paid_social", "campaign": "brand"}	13/07/2025 21:24
-o_2673	c_0592	2025-07-14T07:13:58Z	paid	USD	$692.01	{"source": "paid_social", "medium": "paid_social", "campaign": "brand"}	14/07/2025 09:26
-o_2674	c_0231	2025-07-14T17:00:09Z	paid	usd	USD 73.83	{"source": "display", "medium": "display", "campaign": "nonbrand"}	14/07/2025 22:03
-o_2675	c_0463	2025/07/14 15:43:08-0500	PAID	GBP	GBP 127.81	{"source": "display", "medium": "display", "campaign": "nonbrand"}	14/07/2025 18:18
-o_2676	c_0396	2025-07-14T21:29:17Z	PAID	usd	$16.68	{"source": "paid_social", "medium": "paid_social", "campaign": "promo"}	14/07/2025 12:29
-o_2677	c_0327	2025/07/14 13:13:08-0500	PAID	EUR	EUR 75.77	{"source": "search", "medium": "cpc", "campaign": "newsletter"}	14/07/2025 20:17
-o_2678	c_0108	2025-07-14T13:53:22Z	paid	USD	$507.08	{"source": "paid_social", "medium": "paid_social", "campaign": "promo"}	14/07/2025 09:33
-o_2679	c_0236	14/07/2025 14:53	Fulfilled	USD	12.84	{"source": "paid_social", "medium": "paid_social", "campaign": "prospecting"}	14/07/2025 13:50
-o_2680	c_0165	2025-07-14T19:37:05Z	paid	usd	$286.35	{"source": "display", "medium": "display", "campaign": "nonbrand"}	14/07/2025 18:02
-o_2681	c_0077	2025/07/14 07:10:02-0500	PAID	USD	USD 106.59	{"source": "display", "medium": "display", "campaign": "nonbrand"}	14/07/2025 18:38
-o_2682	c_0347	2025-07-14T20:39:32Z	paid	USD	$478.63	{"source": "display", "medium": "display", "campaign": "retargeting"}	14/07/2025 15:34
-o_2683	c_0629	2025-07-14T08:31:22Z	Fulfilled	EUR	EUR 39.85	{"source": "paid_social", "medium": "paid_social", "campaign": "prospecting"}	14/07/2025 17:01
-o_2684	c_0670	2025-07-15T10:47:13Z	PAID	GBP	£203.73	{"source": "paid_social", "medium": "paid_social", "campaign": "prospecting"}	15/07/2025 17:57
-o_2685	c_0445	2025-07-15T20:04:20Z	PAID	USD	$69.98	{"source": "paid_social", "medium": "paid_social", "campaign": "prospecting"}	15/07/2025 20:02
-o_2686	c_0137	2025-07-15T19:51:40Z	PAID	USD	USD 226.00	{"source": "display", "medium": "display", "campaign": "retargeting"}	15/07/2025 08:32
-o_2687	c_0285	15/07/2025 07:27	paid	EUR	EUR 47.33	{"source": "email", "medium": "email", "campaign": "nonbrand"}	15/07/2025 22:50
-o_2688	c_0420	15/07/2025 15:37	PAID	CAD	CAD 635.54	{"source": "email", "medium": "email", "campaign": "promo"}	15/07/2025 16:15
-o_2689	c_0568	15/07/2025 16:58	PAID	USD	310.8	{"source": "search", "medium": "cpc", "campaign": "newsletter"}	15/07/2025 17:55
-o_2690	c_0748	15/07/2025 21:59	paid	EUR	€ 19.84	{"source": "paid_social", "medium": "paid_social", "campaign": "prospecting"}	15/07/2025 21:30
-o_2691	c_0360	2025/07/15 16:35:41-0500	Refunded	USD	$238.31	{"source": "display", "medium": "display", "campaign": "retargeting"}	15/07/2025 08:18
-o_2692	c_0289	2025-07-15T07:56:23Z	PAID	CAD	CAD 296.98	{"source": "email", "medium": "email", "campaign": "nonbrand"}	15/07/2025 08:53
-o_2693	c_0051	15/07/2025 16:06	PAID	gbp	GBP 10.42	{"source": "paid_social", "medium": "paid_social", "campaign": "prospecting"}	15/07/2025 11:44
-o_2694	c_0586	2025-07-15T08:20:45Z	paid	EUR	€ 50.54	{"source": "paid_social", "medium": "paid_social", "campaign": "prospecting"}	15/07/2025 22:39
-o_2695	c_0211	2025-07-15T18:55:24Z	paid	USD	$14.64	{"source": "display", "medium": "display", "campaign": "retargeting"}	15/07/2025 14:43
-o_2696	c_0370	2025/07/15 09:13:31-0500	PAID	CAD	C$39.83	{"source": "search", "medium": "cpc", "campaign": "brand"}	15/07/2025 08:49
-o_2697	c_0120	2025-07-15T12:27:31Z	PAID	EUR	EUR 67.61	{"source": "search", "medium": "cpc", "campaign": "awareness"}	15/07/2025 21:04
-o_2698	c_0678	15/07/2025 20:21	PAID	USD	404,42	{"source": "paid_social", "medium": "paid_social", "campaign": "prospecting"}	15/07/2025 19:27
-o_2699	c_0275	2025-07-15T12:32:45Z	PAID	USD	$107.66	{"source": "search", "medium": "cpc", "campaign": "awareness"}	15/07/2025 12:26
-o_2700	c_0212	2025-07-15T20:35:06Z	paid	USD	$248.20	{"source": "email", "medium": "email", "campaign": "nonbrand"}	15/07/2025 17:13
-o_2701	c_0299	2025/07/16 18:37:12-0500	paid	USD	USD 505.71	{"source": "paid_social", "medium": "paid_social", "campaign": "retargeting"}	16/07/2025 11:26
-o_2702	c_0316	2025-07-16T20:33:48Z	Cancelled	usd	USD 10.41	{"source": "email", "medium": "email", "campaign": "brand"}	16/07/2025 20:42
-o_2703	c_0483	2025-07-16T10:23:38Z	Fulfilled	USD	USD 13.40	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	16/07/2025 20:39
-o_2704	c_0357	16/07/2025 12:15	Cancelled	usd	USD 851.42	{"source": "paid_social", "medium": "paid_social", "campaign": "retargeting"}	16/07/2025 09:06
-o_2705	c_0558	2025-07-16T12:30:39Z	Cancelled	usd	USD 9.31	{"source": "display", "medium": "display", "campaign": "awareness"}	16/07/2025 15:51
-o_2706	c_0254	16/07/2025 15:04	PAID	EUR	EUR 121.96	{"source": "paid_social", "medium": "paid_social", "campaign": "prospecting"}	16/07/2025 09:49
-o_2707	c_0482	2025-07-16T09:43:30Z	paid	USD	$76.28	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	16/07/2025 10:19
-o_2708	c_0046	2025/07/16 20:47:22-0500	PAID	GBP	£332.67	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	16/07/2025 20:24
-o_2709	c_0270	16/07/2025 17:14	PAID	USD	56.47	{"source": "paid_social", "medium": "paid_social", "campaign": "retargeting"}	16/07/2025 10:55
-o_2710	c_0276	2025/07/16 10:41:34-0500	PAID	cad	CAD 478.06	{"source": "search", "medium": "cpc", "campaign": "newsletter"}	16/07/2025 19:52
-o_2711	c_0064	16/07/2025 09:04	PAID	EUR	€ 34.24	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	16/07/2025 18:29
-o_2712	c_0771	2025-07-17T10:24:50Z	paid	USD	$792.29	{"source": "paid_social", "medium": "paid_social", "campaign": "retargeting"}	17/07/2025 16:35
-o_2713	c_0088	2025-07-17T12:50:40Z	PAID	USD	$254.97	{"source": "paid_social", "medium": "paid_social", "campaign": "prospecting"}	17/07/2025 10:20
-o_2714	c_0353	2025/07/17 12:15:45-0500	paid	CAD	CAD 33.10	{"source": "display", "medium": "display", "campaign": "retargeting"}	17/07/2025 12:51
-o_2715	c_0424	2025-07-17T17:37:01Z	PAID	USD	USD 235.13	{"source": "paid_social", "medium": "paid_social", "campaign": "promo"}	17/07/2025 09:48
-o_2716	c_0732	2025-07-17T17:31:04Z	paid	USD	$19.92	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	17/07/2025 11:51
-o_2717	c_0397	2025-07-17T19:51:23Z	Fulfilled	USD	USD 17.54	{"source": "paid_social", "medium": "paid_social", "campaign": "prospecting"}	17/07/2025 12:17
-o_2718	c_0550	2025-07-17T13:47:35Z	paid	EUR	€ 16.93	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	17/07/2025 18:11
-o_2719	c_0704	2025-07-17T11:47:22Z	PAID	EUR	EUR 12.38	{"source": "email", "medium": "email", "campaign": "newsletter"}	17/07/2025 17:21
-o_2720	c_0587	2025/07/17 19:28:17-0500	PAID	USD	$182.90	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	17/07/2025 10:33
-o_2721	c_0081	2025-07-17T08:41:43Z	PAID	USD	USD 10.62	{"source": "paid_social", "medium": "paid_social", "campaign": "prospecting"}	17/07/2025 21:20
-o_2722	c_0732	2025-07-17T11:00:27Z	PAID	USD	$194.16	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	17/07/2025 19:21
-o_2723	c_0530	2025-07-17T12:16:14Z	paid	EUR	EUR 148.93	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	17/07/2025 08:36
-o_2724	c_0694	2025-07-17T16:28:03Z	paid	USD	$138.22	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	17/07/2025 19:56
-o_2725	c_0151	2025-07-17T16:34:35Z	PAID	USD	$125.68	{"source": "display", "medium": "display", "campaign": "awareness"}	17/07/2025 09:08
-o_2726	c_0588	2025-07-17T08:55:21Z	PAID	USD	USD 31.47	{"source": "display", "medium": "display", "campaign": "retargeting"}	17/07/2025 17:29
-o_2727	c_0172	2025-07-18T21:13:20Z	PAID	USD	396.82	{"source": "search", "medium": "cpc", "campaign": "brand"}	18/07/2025 21:53
-o_2728	c_0044	18/07/2025 07:38	PAID	EUR	EUR 157.44	{"source": "search", "medium": "cpc", "campaign": "brand"}	18/07/2025 08:09
-o_2729	c_0700	2025/07/18 07:53:17-0500	paid	CAD	CAD 118.28	{"source": "search", "medium": "cpc", "campaign": "brand"}	18/07/2025 10:34
-o_2730	c_0643	2025-07-18T07:16:04Z	PAID	USD	$53.67	{"source": "paid_social", "medium": "paid_social", "campaign": "retargeting"}	18/07/2025 09:58
-o_2731	c_0610	2025-07-18T20:51:32Z	paid	USD	USD 517.73	{"source": "display", "medium": "display", "campaign": "nonbrand"}	18/07/2025 21:23
-o_2732	c_0745	2025/07/18 07:43:44-0500	PAID	EUR	€ 1,162.83	{"source": "search", "medium": "cpc", "campaign": "brand"}	18/07/2025 18:30
-o_2733	c_0398	2025/07/18 12:11:43-0500	paid	usd	$22.66	{"source": "display", "medium": "display", "campaign": "nonbrand"}	18/07/2025 18:48
-o_2734	c_0407	2025/07/18 10:46:11-0500	Refunded	EUR	161.12	{"source": "display", "medium": "display", "campaign": "nonbrand"}	18/07/2025 09:34
-o_2735	c_0283	2025-07-18T17:18:51Z	Refunded	USD	USD 34.98	{"source": "paid_social", "medium": "paid_social", "campaign": "retargeting"}	18/07/2025 10:21
-o_2736	c_0598	2025-07-18T15:34:14Z	PAID	gbp	£57.70	{"source": "display", "medium": "display", "campaign": "retargeting"}	18/07/2025 18:21
-o_2737	c_0766	2025-07-18T14:40:53Z	PAID	eur	EUR 67.06	{"source": "email", "medium": "email", "campaign": "promo"}	18/07/2025 12:12
-o_2738	c_0116	2025-07-18T13:52:12Z	PAID	USD	USD 46.52	{"source": "paid_social", "medium": "paid_social", "campaign": "awareness"}	18/07/2025 16:56
-o_2739	c_0152	19/07/2025 11:42	PAID	USD	437.3	{"source": "search", "medium": "cpc", "campaign": "brand"}	19/07/2025 21:26
-o_2740	c_0603	2025-07-19T20:33:35Z	PAID	GBP	GBP 285.47	{"source": "search", "medium": "cpc", "campaign": "brand"}	19/07/2025 20:16
-o_2741	c_0109	2025-07-19T13:07:46Z	PAID	USD	$137.10	{"source": "paid_social", "medium": "paid_social", "campaign": "awareness"}	19/07/2025 12:35
-o_2742	c_0135	19/07/2025 19:11	PAID	USD	589,33	{"source": "email", "medium": "email", "campaign": "newsletter"}	19/07/2025 18:13
-o_2743	c_0533	2025-07-19T15:18:11Z	PAID	cad	C$70.99	{"source": "search", "medium": "cpc", "campaign": "brand"}	19/07/2025 22:50
-o_2744	c_0393	19/07/2025 13:31	PAID	CAD	C$713.42	{"source": "paid_social", "medium": "paid_social", "campaign": "promo"}	19/07/2025 20:42
-o_2745	c_0498	2025-07-19T19:30:16Z	PAID	USD	$384.75	{"source": "search", "medium": "cpc", "campaign": "brand"}	19/07/2025 20:53
-o_2746	c_0485	19/07/2025 16:35	Refunded	USD	$46.89	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	19/07/2025 14:49
-o_2747	c_0283	2025-07-19T11:58:05Z	PAID	USD	USD 11.33	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	19/07/2025 13:54
-o_2748	c_0148	2025/07/20 13:48:04-0500	paid	USD	$449.43	{"source": "paid_social", "medium": "paid_social", "campaign": "brand"}	20/07/2025 14:51
-o_2749	c_0698	2025-07-20T12:58:07Z	PAID	EUR	€ 243.97	{"source": "paid_social", "medium": "paid_social", "campaign": "prospecting"}	20/07/2025 15:38
-o_2750	c_0412	2025-07-20T18:36:01Z	PAID	USD	USD 18.07	{"source": "paid_social", "medium": "paid_social", "campaign": "retargeting"}	20/07/2025 20:44
-o_2751	c_0406	2025/07/20 18:47:02-0500	paid	USD	344.8	{"source": "paid_social", "medium": "paid_social", "campaign": "prospecting"}	20/07/2025 12:59
-o_2752	c_0708	2025/07/20 13:23:24-0500	paid	USD	$53.39	{"source": "paid_social", "medium": "paid_social", "campaign": "retargeting"}	20/07/2025 21:14
-o_2753	c_0051	2025-07-20T10:16:32Z	paid	GBP	GBP 394.34	{"source": "paid_social", "medium": "paid_social", "campaign": "brand"}	20/07/2025 12:19
-o_2754	c_0477	2025-07-21T10:43:17Z	paid	EUR	EUR 48.68	{"source": "paid_social", "medium": "paid_social", "campaign": "brand"}	21/07/2025 17:14
-o_2755	c_0346	2025-07-21T10:20:53Z	paid	EUR	€ 329.88	{"source": "search", "medium": "cpc", "campaign": "retargeting"}	21/07/2025 09:57
-o_2756	c_0288	2025-07-21T08:28:09Z	PAID	EUR	€ 11.47	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	21/07/2025 09:21
-o_2757	c_0713	2025-07-21T19:06:42Z	PAID	USD	$762.25	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	21/07/2025 08:37
-o_2758	c_0131	2025-07-21T18:31:11Z	PAID	USD	$132.51	{"source": "search", "medium": "cpc", "campaign": "retargeting"}	21/07/2025 20:44
-o_2759	c_0308	2025/07/21 10:01:47-0500	PAID	CAD	C$862.71	{"source": "paid_social", "medium": "paid_social", "campaign": "brand"}	21/07/2025 14:46
-o_2760	c_0576	2025-07-21T17:21:26Z	PAID	usd	USD 230.31	{"source": "paid_social", "medium": "paid_social", "campaign": "brand"}	21/07/2025 11:06
-o_2761	c_0747	2025-07-21T13:38:16Z	paid	EUR	36.11	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	21/07/2025 21:37
-o_2762	c_0784	2025/07/21 20:08:18-0500	Fulfilled	USD	USD 180.87	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	21/07/2025 20:04
-o_2763	c_0092	2025/07/21 20:14:48-0500	paid	usd	52.25	{"source": "search", "medium": "cpc", "campaign": "prospecting"}	21/07/2025 19:08
-o_2764	c_0453	21/07/2025 12:00	Fulfilled	USD	$42.08	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	21/07/2025 08:08
-o_2765	c_0417	2025-07-21T17:37:23Z	PAID	CAD	C$230.33	{"source": "search", "medium": "cpc", "campaign": "newsletter"}	21/07/2025 16:46
-o_2766	c_0497	2025-07-21T11:43:47Z	PAID	CAD	CAD 22.01	{"source": "display", "medium": "display", "campaign": "awareness"}	21/07/2025 15:50
-o_2767	c_0383	2025/07/21 17:56:47-0500	PAID	GBP	GBP 136.64	{"source": "paid_social", "medium": "paid_social", "campaign": "brand"}	21/07/2025 10:43
-o_2768	c_0093	21/07/2025 21:18	paid	USD	USD 73.00	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	21/07/2025 09:31
-o_2769	c_0727	2025-07-22T17:53:04Z	PAID	USD	$20.95	{"source": "search", "medium": "cpc", "campaign": "retargeting"}	22/07/2025 19:51
-o_2770	c_0414	2025-07-22T07:22:45Z	PAID	EUR	52.76	{"source": "search", "medium": "cpc", "campaign": "brand"}	22/07/2025 10:55
-o_2771	c_0583	2025-07-22T09:34:19Z	Cancelled	USD	$51.45	{"source": "search", "medium": "cpc", "campaign": "brand"}	22/07/2025 12:18
-o_2772	c_0198	2025-07-22T07:25:50Z	PAID	USD	129,41	{"source": "display", "medium": "display", "campaign": "prospecting"}	22/07/2025 22:57
-o_2773	c_0256	2025-07-22T20:15:15Z	Fulfilled	GBP	GBP 274.36	{"source": "display", "medium": "display", "campaign": "prospecting"}	22/07/2025 18:32
-o_2774	c_0370	2025-07-22T07:20:44Z	PAID	CAD	CAD 558.97	{"source": "display", "medium": "display", "campaign": "prospecting"}	22/07/2025 14:49
-o_2775	c_0204	2025-07-22T20:30:38Z	PAID	USD	USD 77.02	{"source": "display", "medium": "display", "campaign": "awareness"}	22/07/2025 12:41
-o_2776	c_0378	22/07/2025 07:30	Fulfilled	CAD	CAD 15.09	{"source": "display", "medium": "display", "campaign": "awareness"}	22/07/2025 15:13
-o_2777	c_0518	2025/07/22 12:06:48-0500	PAID	USD	$267.91	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	22/07/2025 21:30
-o_2778	c_0127	22/07/2025 20:25	paid	usd	$275.75	{"source": "email", "medium": "email", "campaign": "newsletter"}	22/07/2025 10:11
-o_2779	c_0473	2025/07/22 17:22:25-0500	paid	USD	USD 15.52	{"source": "search", "medium": "cpc", "campaign": "brand"}	22/07/2025 10:41
-o_2780	c_0609	2025/07/22 18:34:11-0500	PAID	USD	$322.67	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	22/07/2025 16:24
-o_2781	c_0601	2025/07/22 08:51:38-0500	paid	EUR	€ 20.45	{"source": "search", "medium": "cpc", "campaign": "brand"}	22/07/2025 22:47
-o_2782	c_0446	2025-07-23T15:47:00Z	Refunded	USD	USD 149.16	{"source": "search", "medium": "cpc", "campaign": "prospecting"}	23/07/2025 09:17
-o_2783	c_0168	2025-07-23T12:25:30Z	Fulfilled	USD	75.48	{"source": "search", "medium": "cpc", "campaign": "prospecting"}	23/07/2025 20:09
-o_2784	c_0120	23/07/2025 12:19	Fulfilled	EUR	EUR 179.92	{"source": "paid_social", "medium": "paid_social", "campaign": "nonbrand"}	23/07/2025 14:23
-o_2785	c_0029	2025-07-23T20:32:39Z	Fulfilled	EUR	€ 22.43	{"source": "search", "medium": "cpc", "campaign": "brand"}	23/07/2025 12:43
-o_2786	c_0073	23/07/2025 21:42	PAID	USD	$33.39	{"source": "paid_social", "medium": "paid_social", "campaign": "nonbrand"}	23/07/2025 14:54
-o_2787	c_0586	2025-07-23T10:29:46Z	PAID	EUR	€ 652.36	{"source": "paid_social", "medium": "paid_social", "campaign": "awareness"}	23/07/2025 17:51
-o_2788	c_0297	23/07/2025 12:31	paid	USD	$426.58	{"source": "paid_social", "medium": "paid_social", "campaign": "retargeting"}	23/07/2025 13:24
-o_2789	c_0668	2025-07-23T16:52:27Z	PAID	GBP	56.35	{"source": "search", "medium": "cpc", "campaign": "brand"}	23/07/2025 21:02
-o_2790	c_0021	2025-07-23T19:19:55Z	PAID	USD	218,34	{"source": "paid_social", "medium": "paid_social", "campaign": "nonbrand"}	23/07/2025 13:04
-o_2791	c_0010	23/07/2025 19:37	Refunded	USD	$27.95	{"source": "paid_social", "medium": "paid_social", "campaign": "promo"}	23/07/2025 15:02
-o_2792	c_0136	2025/07/23 20:47:39-0500	Fulfilled	USD	USD 187.76	{"source": "search", "medium": "cpc", "campaign": "brand"}	23/07/2025 14:27
-o_2793	c_0231	23/07/2025 16:36	PAID	USD	376,43	{"source": "paid_social", "medium": "paid_social", "campaign": "promo"}	23/07/2025 15:15
-o_2794	c_0019	2025-07-24T18:47:01Z	Fulfilled	USD	USD 137.63	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	24/07/2025 22:50
-o_2795	c_0623	24/07/2025 20:31	PAID	EUR	261.96	{"source": "search", "medium": "cpc", "campaign": "brand"}	24/07/2025 12:05
-o_2796	c_0282	2025/07/24 08:29:38-0500	paid	USD	USD 25.06	{"source": "search", "medium": "cpc", "campaign": "brand"}	24/07/2025 11:40
-o_2797	c_0477	2025/07/24 12:04:36-0500	PAID	EUR	262.61	{"source": "paid_social", "medium": "paid_social", "campaign": "promo"}	24/07/2025 12:00
-o_2798	c_0224	2025-07-24T07:10:22Z	PAID	EUR	EUR 13.54	{"source": "search", "medium": "cpc", "campaign": "brand"}	24/07/2025 09:03
-o_2799	c_0310	2025-07-24T12:19:04Z	paid	usd	$658.48	{"source": "email", "medium": "email", "campaign": "awareness"}	24/07/2025 09:03
-o_2800	c_0534	2025/07/24 15:00:11-0500	paid	GBP	GBP 428.43	{"source": "search", "medium": "cpc", "campaign": "retargeting"}	24/07/2025 13:47
-o_2801	c_0105	2025/07/24 11:15:55-0500	PAID	USD	$61.10	{"source": "search", "medium": "cpc", "campaign": "brand"}	24/07/2025 17:08
-o_2802	c_0679	2025-07-24T09:43:25Z	PAID	CAD	C$300.31	{"source": "paid_social", "medium": "paid_social", "campaign": "prospecting"}	24/07/2025 21:49
-o_2803	c_0624	24/07/2025 14:53	PAID	USD	402,80	{"source": "display", "medium": "display", "campaign": "retargeting"}	24/07/2025 19:54
-o_2804	c_0701	24/07/2025 21:16	paid	usd	153.86	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	24/07/2025 22:53
-o_2805	c_0090	2025-07-24T13:31:57Z	PAID	USD	$255.84	{"source": "paid_social", "medium": "paid_social", "campaign": "prospecting"}	24/07/2025 17:47
-o_2806	c_0284	2025-07-24T18:19:44Z	PAID	gbp	£243.06	{"source": "paid_social", "medium": "paid_social", "campaign": "prospecting"}	24/07/2025 09:16
-o_2807	c_0419	2025/07/25 17:10:21-0500	Fulfilled	USD	86.66	{"source": "display", "medium": "display", "campaign": "retargeting"}	25/07/2025 10:01
-o_2808	c_0268	2025/07/25 07:56:53-0500	PAID	USD	$437.04	{"source": "search", "medium": "cpc", "campaign": "awareness"}	25/07/2025 22:27
-o_2809	c_0729	2025/07/25 11:52:54-0500	PAID	USD	USD 417.98	{"source": "display", "medium": "display", "campaign": "nonbrand"}	25/07/2025 18:13
-o_2810	c_0154	2025-07-25T10:15:16Z	paid	USD	USD 87.86	{"source": "search", "medium": "cpc", "campaign": "prospecting"}	25/07/2025 12:07
-o_2811	c_0059	2025-07-25T21:49:23Z	Cancelled	EUR	€ 149.41	{"source": "search", "medium": "cpc", "campaign": "prospecting"}	25/07/2025 08:13
-o_2812	c_0414	2025/07/25 20:55:38-0500	Fulfilled	EUR	EUR 351.14	{"source": "display", "medium": "display", "campaign": "retargeting"}	25/07/2025 17:44
-o_2813	c_0739	2025/07/25 14:56:52-0500	Fulfilled	USD	237.86	{"source": "display", "medium": "display", "campaign": "retargeting"}	25/07/2025 10:12
-o_2814	c_0510	2025-07-25T09:51:04Z	PAID	usd	$368.91	{"source": "email", "medium": "email", "campaign": "promo"}	25/07/2025 10:31
-o_2815	c_0429	2025-07-25T17:16:09Z	PAID	USD	USD 241.54	{"source": "search", "medium": "cpc", "campaign": "awareness"}	25/07/2025 22:54
-o_2816	c_0755	2025-07-25T21:19:12Z	Fulfilled	EUR	EUR 32.19	{"source": "search", "medium": "cpc", "campaign": "brand"}	25/07/2025 09:15
-o_2817	c_0598	2025-07-25T11:50:58Z	paid	gbp	267,34	{"source": "display", "medium": "display", "campaign": "retargeting"}	25/07/2025 16:03
-o_2818	c_0586	2025-07-25T08:35:06Z	PAID	eur	EUR 256.76	{"source": "search", "medium": "cpc", "campaign": "brand"}	25/07/2025 14:44
-o_2819	c_0744	2025-07-25T17:02:41Z	Cancelled	USD	$467.02	{"source": "display", "medium": "display", "campaign": "nonbrand"}	25/07/2025 08:26
-o_2820	c_0228	2025-07-26T16:47:37Z	PAID	GBP	£207.56	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	26/07/2025 22:13
-o_2821	c_0548	2025-07-26T10:50:09Z	PAID	USD	$189.46	{"source": "email", "medium": "email", "campaign": "brand"}	26/07/2025 10:12
-o_2822	c_0609	2025-07-26T14:00:20Z	PAID	USD	USD 371.62	{"source": "display", "medium": "display", "campaign": "retargeting"}	26/07/2025 20:33
-o_2823	c_0387	2025-07-26T13:02:16Z	paid	USD	$35.68	{"source": "email", "medium": "email", "campaign": "brand"}	26/07/2025 10:44
-o_2824	c_0674	2025/07/26 10:35:48-0500	Fulfilled	CAD	C$20.65	{"source": "display", "medium": "display", "campaign": "retargeting"}	26/07/2025 20:35
-o_2825	c_0186	2025-07-26T09:42:00Z	Cancelled	USD	USD 198.52	{"source": "email", "medium": "email", "campaign": "promo"}	26/07/2025 09:24
-o_2826	c_0483	2025-07-26T16:59:31Z	paid	USD	USD 55.80	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	26/07/2025 20:35
-o_2827	c_0759	2025-07-26T20:43:10Z	PAID	USD	USD 156.69	{"source": "email", "medium": "email", "campaign": "promo"}	26/07/2025 11:21
-o_2828	c_0782	2025-07-26T07:57:57Z	PAID	USD	USD 32.44	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	26/07/2025 20:24
-o_2829	c_0697	26/07/2025 08:43	PAID	usd	USD 629.59	{"source": "search", "medium": "cpc", "campaign": "prospecting"}	26/07/2025 18:25
-o_2830	c_0119	2025/07/26 20:05:52-0500	PAID	EUR	EUR 41.18	{"source": "email", "medium": "email", "campaign": "brand"}	26/07/2025 13:46
-o_2831	c_0364	2025/07/27 17:19:09-0500	paid	EUR	138.59	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	27/07/2025 14:19
-o_2832	c_0340	2025/07/27 20:12:25-0500	Refunded	CAD	CAD 415.07	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	27/07/2025 10:43
-o_2833	c_0381	2025/07/27 15:13:06-0500	Fulfilled	usd	124.92	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	27/07/2025 15:34
-o_2834	c_0482	27/07/2025 07:58	PAID	USD	$933.57	{"source": "paid_social", "medium": "paid_social", "campaign": "prospecting"}	27/07/2025 17:22
-o_2835	c_0595	2025/07/27 18:19:53-0500	Refunded	USD	$149.24	{"source": "email", "medium": "email", "campaign": "retargeting"}	27/07/2025 16:39
-o_2836	c_0073	2025-07-27T12:15:14Z	paid	USD	$97.39	{"source": "email", "medium": "email", "campaign": "retargeting"}	27/07/2025 09:15
-o_2837	c_0513	2025-07-27T08:34:57Z	paid	USD	472.68	{"source": "paid_social", "medium": "paid_social", "campaign": "brand"}	27/07/2025 08:10
-o_2838	c_0483	27/07/2025 12:15	PAID	USD	95,47	{"source": "paid_social", "medium": "paid_social", "campaign": "prospecting"}	27/07/2025 12:31
-o_2839	c_0424	2025/07/28 19:37:38-0500	PAID	USD	$304.89	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	28/07/2025 18:44
-o_2840	c_0206	28/07/2025 12:51	PAID	GBP	£136.41	{"source": "search", "medium": "cpc", "campaign": "prospecting"}	28/07/2025 17:05
-o_2841	c_0420	2025/07/28 11:36:39-0500	PAID	CAD	C$140.38	{"source": "display", "medium": "display", "campaign": "retargeting"}	28/07/2025 12:45
-o_2842	c_0469	2025-07-28T19:55:44Z	PAID	USD	$748.54	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	28/07/2025 20:52
-o_2843	c_0110	2025-07-28T09:50:04Z	Fulfilled	USD	$320.13	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	28/07/2025 21:41
-o_2844	c_0647	2025-07-28T19:19:00Z	PAID	GBP	£26.14	{"source": "email", "medium": "email", "campaign": "brand"}	28/07/2025 08:19
-o_2845	c_0403	28/07/2025 17:17	PAID	EUR	EUR 212.02	{"source": "email", "medium": "email", "campaign": "brand"}	28/07/2025 11:32
-o_2846	c_0060	2025-07-28T14:32:20Z	PAID	USD	$35.64	{"source": "email", "medium": "email", "campaign": "retargeting"}	28/07/2025 19:31
-o_2847	c_0579	2025-07-28T09:23:43Z	PAID	CAD	C$137.56	{"source": "search", "medium": "cpc", "campaign": "prospecting"}	28/07/2025 15:30
-o_2848	c_0215	28/07/2025 21:50	PAID	EUR	EUR 211.92	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	28/07/2025 14:07
-o_2849	c_0211	2025-07-28T11:40:38Z	Fulfilled	USD	$14.64	{"source": "email", "medium": "email", "campaign": "retargeting"}	28/07/2025 21:49
-o_2850	c_0118	2025/07/28 08:09:56-0500	PAID	eur	€ 234.30	{"source": "search", "medium": "cpc", "campaign": "prospecting"}	28/07/2025 12:44
-o_2851	c_0649	2025/07/28 16:45:51-0500	PAID	USD	USD 31.02	{"source": "display", "medium": "display", "campaign": "retargeting"}	28/07/2025 08:23
-o_2852	c_0414	2025-07-28T19:28:33Z	PAID	EUR	€ 12.67	{"source": "email", "medium": "email", "campaign": "promo"}	28/07/2025 09:08
-o_2853	c_0489	2025-07-28T17:08:14Z	paid	CAD	CAD 11.42	{"source": "email", "medium": "email", "campaign": "retargeting"}	28/07/2025 13:14
-o_2854	c_0005	2025/07/28 15:45:39-0500	paid	USD	36.42	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	28/07/2025 16:36
-o_2855	c_0261	28/07/2025 13:01	PAID	USD	$289.12	{"source": "email", "medium": "email", "campaign": "promo"}	28/07/2025 20:56
-o_2856	c_0383	2025-07-29T13:51:58Z	PAID	GBP	£19.20	{"source": "search", "medium": "cpc", "campaign": "brand"}	29/07/2025 11:00
-o_2857	c_0412	2025-07-29T11:50:43Z	paid	USD	USD 78.90	{"source": "search", "medium": "cpc", "campaign": "brand"}	29/07/2025 15:02
-o_2858	c_0693	2025/07/29 07:19:25-0500	PAID	EUR	€ 198.68	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	29/07/2025 13:34
-o_2859	c_0752	2025-07-29T17:11:43Z	PAID	USD	500,88	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	29/07/2025 11:15
-o_2860	c_0399	2025/07/29 13:54:29-0500	Refunded	EUR	€ 36.84	{"source": "search", "medium": "cpc", "campaign": "brand"}	29/07/2025 10:30
-o_2861	c_0134	2025-07-29T14:48:26Z	PAID	EUR	€ 12.12	{"source": "paid_social", "medium": "paid_social", "campaign": "prospecting"}	29/07/2025 21:23
-o_2862	c_0516	2025/07/29 21:33:02-0500	PAID	usd	268.79	{"source": "paid_social", "medium": "paid_social", "campaign": "promo"}	29/07/2025 19:07
-o_2863	c_0090	2025-07-29T21:07:06Z	PAID	USD	USD 55.05	{"source": "display", "medium": "display", "campaign": "awareness"}	29/07/2025 09:01
-o_2864	c_0306	2025-07-29T12:19:59Z	paid	USD	178.7	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	29/07/2025 18:23
-o_2865	c_0758	2025-07-29T19:06:47Z	PAID	EUR	€ 23.37	{"source": "display", "medium": "display", "campaign": "retargeting"}	29/07/2025 15:06
-o_2866	c_0346	2025/07/29 14:48:07-0500	PAID	EUR	EUR 252.74	{"source": "paid_social", "medium": "paid_social", "campaign": "prospecting"}	29/07/2025 22:09
-o_2867	c_0138	2025-07-29T16:02:35Z	PAID	USD	$116.69	{"source": "paid_social", "medium": "paid_social", "campaign": "prospecting"}	29/07/2025 20:18
-o_2868	c_0502	2025-07-29T16:29:43Z	PAID	usd	USD 240.40	{"source": "paid_social", "medium": "paid_social", "campaign": "prospecting"}	29/07/2025 18:01
-o_2869	c_0169	2025-07-29T09:24:20Z	Refunded	USD	USD 32.23	{"source": "display", "medium": "display", "campaign": "awareness"}	29/07/2025 16:16
-o_2870	c_0234	2025-07-29T12:17:11Z	PAID	USD	USD 53.29	{"source": "search", "medium": "cpc", "campaign": "brand"}	29/07/2025 16:10
-o_2871	c_0745	2025/07/29 13:09:53-0500	paid	EUR	EUR 84.98	{"source": "search", "medium": "cpc", "campaign": "retargeting"}	29/07/2025 09:05
-o_2872	c_0278	2025-07-30T12:46:35Z	paid	EUR	EUR 649.67	{"source": "paid_social", "medium": "paid_social", "campaign": "newsletter"}	30/07/2025 09:30
-o_2873	c_0604	2025-07-30T21:51:43Z	PAID	USD	USD 428.85	{"source": "display", "medium": "display", "campaign": "prospecting"}	30/07/2025 12:12
-o_2874	c_0376	2025/07/30 12:25:38-0500	Cancelled	gbp	GBP 289.91	{"source": "display", "medium": "display", "campaign": "awareness"}	30/07/2025 10:32
-o_2875	c_0667	30/07/2025 21:50	PAID	USD	$17.15	{"source": "display", "medium": "display", "campaign": "prospecting"}	30/07/2025 15:49
-o_2876	c_0385	2025-07-30T10:57:13Z	PAID	USD	USD 186.66	{"source": "paid_social", "medium": "paid_social", "campaign": "newsletter"}	30/07/2025 21:14
-o_2877	c_0262	2025-07-30T21:39:17Z	Fulfilled	EUR	EUR 19.13	{"source": "display", "medium": "display", "campaign": "prospecting"}	30/07/2025 08:35
-o_2878	c_0784	2025/07/30 21:25:35-0500	Fulfilled	USD	$15.37	{"source": "display", "medium": "display", "campaign": "nonbrand"}	30/07/2025 11:44
-o_2879	c_0609	2025-07-30T15:51:10Z	Cancelled	USD	$259.38	{"source": "paid_social", "medium": "paid_social", "campaign": "retargeting"}	30/07/2025 18:19
-o_2880	c_0139	2025-07-30T19:27:53Z	PAID	USD	262.31	{"source": "paid_social", "medium": "paid_social", "campaign": "retargeting"}	30/07/2025 17:08
-o_2881	c_0050	2025-07-30T07:57:43Z	PAID	GBP	GBP 502.71	{"source": "display", "medium": "display", "campaign": "nonbrand"}	30/07/2025 21:46
-o_2882	c_0529	30/07/2025 20:05	PAID	USD	USD 203.32	{"source": "display", "medium": "display", "campaign": "prospecting"}	30/07/2025 13:30
-o_2883	c_0561	2025-07-31T17:42:12Z	PAID	EUR	EUR 86.18	{"source": "display", "medium": "display", "campaign": "awareness"}	31/07/2025 20:26
-o_2884	c_0198	2025-07-31T18:37:02Z	PAID	USD	287.85	{"source": "email", "medium": "email", "campaign": "retargeting"}	31/07/2025 20:23
-o_2885	c_0792	2025-07-31T09:13:58Z	PAID	USD	$209.99	{"source": "paid_social", "medium": "paid_social", "campaign": "brand"}	31/07/2025 13:00
-o_2886	c_0533	2025/07/31 17:01:09-0500	PAID	CAD	C$384.60	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	31/07/2025 18:41
-o_2887	c_0346	2025-07-31T14:50:32Z	Fulfilled	EUR	€ 700.95	{"source": "display", "medium": "display", "campaign": "retargeting"}	31/07/2025 22:46
-o_2888	c_0429	2025-07-31T20:13:31Z	PAID	usd	USD 240.42	{"source": "display", "medium": "display", "campaign": "prospecting"}	31/07/2025 22:15
-o_2889	c_0524	2025/07/31 21:01:29-0500	PAID	USD	$271.68	{"source": "display", "medium": "display", "campaign": "prospecting"}	31/07/2025 18:43
-o_2890	c_0633	31/07/2025 12:42	PAID	usd	90.7	{"source": "paid_social", "medium": "paid_social", "campaign": "newsletter"}	31/07/2025 15:08
-o_2891	c_0364	2025-07-31T13:20:35Z	Refunded	EUR	€ 403.70	{"source": "paid_social", "medium": "paid_social", "campaign": "brand"}	31/07/2025 08:54
-o_2892	c_0630	2025-07-31T13:27:28Z	paid	USD	USD 516.75	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	31/07/2025 09:23
-o_2893	c_0797	2025/07/31 10:06:40-0500	Cancelled	USD	$97.10	{"source": "display", "medium": "display", "campaign": "retargeting"}	31/07/2025 17:46
-o_2894	c_0536	2025/07/31 09:00:56-0500	PAID	USD	USD 398.96	{"source": "display", "medium": "display", "campaign": "retargeting"}	31/07/2025 08:47
-o_2895	c_0721	2025-07-31T14:04:48Z	Fulfilled	USD	$9.60	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	31/07/2025 17:20
-o_2896	c_0303	2025/07/31 20:16:58-0500	paid	USD	$33.74	{"source": "display", "medium": "display", "campaign": "retargeting"}	31/07/2025 22:38
-o_2897	c_0062	2025/07/31 17:28:28-0500	PAID	USD	USD 186.58	{"source": "email", "medium": "email", "campaign": "retargeting"}	31/07/2025 10:13
-o_2154	c_0380	30/05/2025 17:56	Fulfilled	USD	USD 234.90	{"source": "paid_social", "medium": "paid_social", "campaign": "prospecting"}	24/07/2025 11:10
-o_1849	c_0655	2025-05-07T19:08:04Z	PAID	usd	$16.39	{"source": "email", "medium": "email", "campaign": "promo"}	27/07/2025 09:25
-o_1819	c_0465	2025-05-05T09:50:07Z	PAID	cad	220,11	{"source": "email", "medium": "email", "campaign": "retargeting"}	12/07/2025 18:35
-o_2367	c_0711	2025-06-18T15:05:23Z	Fulfilled	EUR	EUR 256.60	{"source": "display", "medium": "display", "campaign": "retargeting"}	31/07/2025 21:54
-o_2160	c_0488	2025/05/31 07:43:53-0500	PAID	USD	USD 336.39	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	05/07/2025 12:42
-o_1353	c_0314	2025-03-30T11:40:52Z	paid	usd	USD 460.80	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	27/07/2025 22:31
-o_1557	c_0792	2025-04-14T11:53:32Z	PAID	USD	$9.61	{"source": "paid_social", "medium": "paid_social", "campaign": "prospecting"}	28/07/2025 21:58
-o_2379	c_0780	2025-06-19T15:52:59Z	paid	USD	USD 43.47	{"source": "search", "medium": "cpc", "campaign": "brand"}	17/07/2025 13:14
-o_1496	c_0392	2025-04-10T08:12:38Z	PAID	cad	CAD 189.09	{"source": "paid_social", "medium": "paid_social", "campaign": "newsletter"}	16/07/2025 18:54
-o_1459	c_0744	07/04/2025 17:28	PAID	USD	USD 99.14	{"source": "paid_social", "medium": "paid_social", "campaign": "nonbrand"}	28/07/2025 13:36
-o_1430	c_0071	2025/04/04 08:57:13-0500	Fulfilled	USD	117.18	{"source": "display", "medium": "display", "campaign": "awareness"}	24/07/2025 21:48
-o_2452	c_0141	26/06/2025 08:26	paid	USD	$38.59	{"source": "paid_social", "medium": "paid_social", "campaign": "newsletter"}	18/07/2025 09:43
-o_1427	c_0186	2025-04-04T12:44:44Z	PAID	USD	$30.24	{"source": "paid_social", "medium": "paid_social", "campaign": "retargeting"}	22/07/2025 16:25
-o_2137	c_0063	2025-05-29T09:06:14Z	PAID	USD	USD 23.22	{"source": "paid_social", "medium": "paid_social", "campaign": "retargeting"}	21/07/2025 22:15
-o_1035	c_0624	04/03/2025 15:20	Fulfilled	USD	USD 705.68	{"source": "display", "medium": "display", "campaign": "awareness"}	22/07/2025 15:30
-o_1351	c_0498	2025-03-30T13:56:35Z	PAID	USD	$337.98	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	18/07/2025 20:14
-o_2022	c_0686	2025-05-21T16:04:56Z	Fulfilled	eur	EUR 19.43	{"source": "paid_social", "medium": "paid_social", "campaign": "awareness"}	22/07/2025 10:37
-o_1371	c_0423	2025/03/31 08:24:23-0500	paid	usd	USD 172.44	{"source": "paid_social", "medium": "paid_social", "campaign": "retargeting"}	05/07/2025 10:15
-o_2175	c_0268	2025-06-02T11:59:03Z	paid	usd	19,06	{"source": "email", "medium": "email", "campaign": "promo"}	24/07/2025 09:18
-o_2301	c_0460	2025-06-12T12:19:05Z	Fulfilled	EUR	€ 177.17	{"source": "search", "medium": "cpc", "campaign": "retargeting"}	16/07/2025 19:37
-o_2063	c_0640	24/05/2025 11:28	PAID	USD	$85.56	{"source": "display", "medium": "display", "campaign": "awareness"}	12/07/2025 19:29
-o_2117	c_0236	2025-05-28T08:58:42Z	Fulfilled	USD	$203.63	{"source": "email", "medium": "email", "campaign": "newsletter"}	05/07/2025 13:47
-o_2306	c_0369	2025/06/13 19:22:12-0500	PAID	USD	$555.03	{"source": "paid_social", "medium": "paid_social", "campaign": "brand"}	06/07/2025 13:39
-o_2351	c_0655	2025/06/17 08:30:55-0500	paid	USD	$307.87	{"source": "search", "medium": "cpc", "campaign": "brand"}	25/07/2025 11:47
-o_2140	c_0438	2025-05-29T19:05:38Z	Fulfilled	eur	67.07	{"source": "display", "medium": "display", "campaign": "brand"}	15/07/2025 21:10
-o_1307	c_0477	26/03/2025 16:29	PAID	EUR	EUR 324.43	{"source": "paid_social", "medium": "paid_social", "campaign": "newsletter"}	20/07/2025 13:45
-o_1697	c_0349	2025-04-25T08:08:55Z	Fulfilled	USD	$507.28	{"source": "display", "medium": "display", "campaign": "awareness"}	28/07/2025 19:52
-o_1145	c_0229	13/03/2025 12:35	paid	USD	USD 50.88	{"source": "paid_social", "medium": "paid_social", "campaign": "awareness"}	28/07/2025 11:32
-o_2414	c_0643	23/06/2025 13:54	paid	USD	$10.15	{"source": "search", "medium": "cpc", "campaign": "brand"}	10/07/2025 13:18
-o_1617	c_0781	18/04/2025 16:16	Fulfilled	usd	USD 196.19	{"source": "search", "medium": "cpc", "campaign": "nonbrand"}	05/07/2025 10:07
+order_id,customer_id,order_ts,status,currency,total_amount_text,utm_json,updated_at
+o_2539,c_0560,2025-07-03T13:56:02Z,PAID,EUR,EUR 77.80,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""prospecting""}",03/07/2025 18:19
+o_2540,c_0007,2025-07-03T20:48:41Z,PAID,GBP,GBP 18.54,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""newsletter""}",03/07/2025 21:23
+o_2541,c_0025,2025/07/03 11:18:19-0500,paid,USD,$74.06,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""retargeting""}",03/07/2025 18:43
+o_2542,c_0355,2025-07-03T20:04:42Z,paid,CAD,C$195.22,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""retargeting""}",03/07/2025 15:41
+o_2543,c_0344,2025-07-03T16:30:10Z,PAID,USD,$18.47,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""retargeting""}",03/07/2025 20:58
+o_2544,c_0515,03/07/2025 18:58,PAID,usd,USD 933.78,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""retargeting""}",03/07/2025 17:49
+o_2545,c_0745,2025-07-03T09:10:02Z,PAID,EUR,EUR 94.85,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""nonbrand""}",03/07/2025 16:28
+o_2546,c_0151,2025-07-03T16:54:34Z,paid,USD,USD 99.20,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""retargeting""}",03/07/2025 16:06
+o_2547,c_0543,2025-07-03T13:49:22Z,paid,USD,$48.52,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""retargeting""}",03/07/2025 22:56
+o_2548,c_0430,2025-07-03T08:57:35Z,PAID,USD,USD 14.45,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""prospecting""}",03/07/2025 09:01
+o_2549,c_0062,2025/07/04 15:31:55-0500,PAID,USD,151.68,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""prospecting""}",04/07/2025 08:11
+o_2550,c_0096,2025-07-04T13:14:06Z,Cancelled,EUR,EUR 16.92,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",04/07/2025 14:19
+o_2551,c_0238,2025-07-04T17:47:33Z,Fulfilled,GBP,GBP 180.03,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""nonbrand""}",04/07/2025 10:33
+o_2552,c_0470,2025-07-04T13:22:27Z,PAID,USD,"635,24","{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""retargeting""}",04/07/2025 16:40
+o_2553,c_0098,2025/07/04 17:53:34-0500,PAID,USD,USD 22.49,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""retargeting""}",04/07/2025 18:16
+o_2554,c_0137,2025-07-04T10:56:21Z,PAID,USD,$239.49,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""retargeting""}",04/07/2025 14:57
+o_2555,c_0077,2025-07-04T19:37:14Z,Refunded,USD,USD 506.69,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""retargeting""}",04/07/2025 10:49
+o_2556,c_0599,2025-07-04T15:29:40Z,paid,USD,USD 248.31,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""retargeting""}",04/07/2025 08:41
+o_2557,c_0338,2025/07/04 08:17:48-0500,PAID,cad,CAD 145.03,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""newsletter""}",04/07/2025 11:20
+o_2558,c_0268,2025-07-04T21:28:35Z,paid,USD,$126.81,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",04/07/2025 15:33
+o_2559,c_0542,2025-07-04T14:27:54Z,PAID,USD,USD 691.14,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""retargeting""}",04/07/2025 20:20
+o_2560,c_0438,2025-07-04T20:18:32Z,PAID,EUR,€ 15.02,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""retargeting""}",04/07/2025 12:33
+o_2561,c_0382,2025-07-04T12:21:48Z,PAID,USD,144.61,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""promo""}",04/07/2025 21:38
+o_2562,c_0294,2025-07-04T09:57:27Z,Fulfilled,EUR,€ 199.55,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",04/07/2025 17:30
+o_2563,c_0112,2025-07-04T16:27:20Z,Refunded,USD,31.84,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",04/07/2025 17:04
+o_2564,c_0109,2025-07-04T18:12:06Z,paid,USD,$27.36,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""prospecting""}",04/07/2025 21:57
+o_2565,c_0620,2025/07/04 11:02:18-0500,Fulfilled,EUR,€ 277.78,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""promo""}",04/07/2025 12:50
+o_2566,c_0124,2025-07-05T18:10:59Z,Refunded,USD,USD 321.25,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""retargeting""}",05/07/2025 20:23
+o_2567,c_0789,2025-07-05T19:15:33Z,PAID,usd,67.94,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""awareness""}",05/07/2025 22:06
+o_2568,c_0428,2025-07-05T08:10:45Z,Cancelled,CAD,356.36,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",05/07/2025 22:42
+o_2569,c_0093,2025/07/05 15:52:19-0500,PAID,USD,USD 30.43,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",05/07/2025 11:45
+o_2570,c_0424,2025-07-05T11:18:54Z,PAID,USD,$437.95,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""retargeting""}",05/07/2025 22:49
+o_2571,c_0069,2025/07/05 10:04:52-0500,paid,USD,"165,25","{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""newsletter""}",05/07/2025 16:38
+o_2572,c_0152,2025/07/05 16:58:34-0500,Fulfilled,USD,106.97,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""retargeting""}",05/07/2025 21:20
+o_2573,c_0729,05/07/2025 18:38,paid,USD,$194.94,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",05/07/2025 15:08
+o_2574,c_0526,05/07/2025 19:24,paid,EUR,29.58,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""promo""}",05/07/2025 13:30
+o_2575,c_0694,06/07/2025 12:05,PAID,USD,USD 754.05,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""retargeting""}",06/07/2025 16:23
+o_2576,c_0057,2025/07/06 21:42:54-0500,Cancelled,USD,USD 53.57,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""nonbrand""}",06/07/2025 18:04
+o_2577,c_0570,2025-07-06T19:59:09Z,Fulfilled,USD,USD 504.69,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""promo""}",06/07/2025 17:28
+o_2578,c_0751,06/07/2025 17:02,PAID,GBP,£305.08,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""awareness""}",06/07/2025 16:09
+o_2579,c_0474,2025-07-06T15:07:18Z,Cancelled,cad,CAD 136.04,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",06/07/2025 19:38
+o_2580,c_0176,2025/07/06 12:01:41-0500,Fulfilled,USD,$14.29,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""prospecting""}",06/07/2025 08:33
+o_2581,c_0064,2025-07-06T15:22:24Z,paid,EUR,EUR 46.05,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""awareness""}",06/07/2025 08:01
+o_2582,c_0191,2025/07/07 17:08:19-0500,PAID,USD,USD 64.16,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""retargeting""}",07/07/2025 09:09
+o_2583,c_0382,2025-07-07T17:24:37Z,Fulfilled,usd,USD 253.42,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""brand""}",07/07/2025 19:06
+o_2584,c_0646,2025-07-07T10:22:10Z,PAID,EUR,EUR 402.19,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""brand""}",07/07/2025 19:51
+o_2585,c_0087,2025-07-07T09:04:49Z,PAID,CAD,C$692.99,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""promo""}",07/07/2025 10:23
+o_2586,c_0077,2025-07-07T08:26:47Z,paid,usd,$55.37,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""brand""}",07/07/2025 08:09
+o_2587,c_0067,2025-07-07T11:29:37Z,PAID,USD,"304,51","{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""awareness""}",07/07/2025 21:21
+o_2588,c_0132,2025/07/07 21:44:11-0500,PAID,GBP,GBP 235.95,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""brand""}",07/07/2025 12:31
+o_2589,c_0126,2025-07-07T13:39:10Z,paid,USD,USD 40.23,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""prospecting""}",07/07/2025 17:31
+o_2590,c_0473,2025-07-07T17:11:00Z,paid,USD,18.41,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""retargeting""}",07/07/2025 20:12
+o_2591,c_0173,07/07/2025 17:23,PAID,USD,USD 186.96,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""prospecting""}",07/07/2025 11:08
+o_2592,c_0591,2025-07-07T08:56:21Z,PAID,USD,$250.19,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""retargeting""}",07/07/2025 11:17
+o_2593,c_0031,2025-07-07T15:51:25Z,PAID,USD,USD 10.95,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""brand""}",07/07/2025 12:29
+o_2594,c_0700,2025-07-07T07:59:38Z,Refunded,CAD,177.4,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""retargeting""}",07/07/2025 19:16
+o_2595,c_0220,2025-07-07T19:38:08Z,PAID,USD,28.36,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",07/07/2025 16:26
+o_2596,c_0282,2025-07-07T21:10:54Z,paid,USD,USD 196.56,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""prospecting""}",07/07/2025 21:00
+o_2597,c_0061,2025-07-07T07:43:26Z,PAID,USD,854.77,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""retargeting""}",07/07/2025 18:59
+o_2598,c_0252,2025/07/07 19:54:48-0500,PAID,EUR,EUR 340.21,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""newsletter""}",07/07/2025 16:11
+o_2599,c_0422,2025/07/07 10:07:53-0500,Fulfilled,USD,$16.49,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""retargeting""}",07/07/2025 08:22
+o_2600,c_0491,2025-07-08T10:29:23Z,PAID,CAD,C$198.46,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",08/07/2025 10:39
+o_2601,c_0520,2025/07/08 13:48:15-0500,paid,USD,36.23,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""retargeting""}",08/07/2025 11:40
+o_2602,c_0430,08/07/2025 13:32,Fulfilled,usd,$295.06,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""awareness""}",08/07/2025 10:43
+o_2603,c_0539,2025-07-08T19:21:40Z,PAID,USD,161.3,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",08/07/2025 18:36
+o_2604,c_0646,2025-07-08T15:41:49Z,PAID,EUR,€ 16.74,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""brand""}",08/07/2025 10:55
+o_2605,c_0020,2025-07-08T16:09:09Z,PAID,EUR,€ 11.32,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""prospecting""}",08/07/2025 18:29
+o_2606,c_0485,2025-07-08T20:31:38Z,paid,USD,$15.01,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""awareness""}",08/07/2025 16:10
+o_2607,c_0558,2025-07-08T21:51:55Z,PAID,USD,USD 12.22,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""brand""}",08/07/2025 13:50
+o_2608,c_0353,2025-07-08T15:17:57Z,paid,cad,C$140.87,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""awareness""}",08/07/2025 20:45
+o_2609,c_0515,2025/07/08 11:01:32-0500,PAID,usd,USD 108.19,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""brand""}",08/07/2025 21:32
+o_2610,c_0398,08/07/2025 21:13,PAID,usd,"226,87","{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""brand""}",08/07/2025 11:06
+o_2611,c_0185,2025/07/08 12:49:26-0500,PAID,USD,158.91,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""brand""}",08/07/2025 08:08
+o_2612,c_0310,2025/07/09 15:20:01-0500,PAID,usd,USD 385.22,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""nonbrand""}",09/07/2025 12:59
+o_2613,c_0645,09/07/2025 11:36,Fulfilled,USD,USD 150.89,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""prospecting""}",09/07/2025 18:51
+o_2614,c_0786,2025/07/09 08:56:21-0500,PAID,cad,C$607.01,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""nonbrand""}",09/07/2025 16:41
+o_2615,c_0229,2025-07-09T21:49:47Z,PAID,USD,$121.07,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""nonbrand""}",09/07/2025 17:36
+o_2616,c_0347,2025/07/09 07:08:20-0500,PAID,USD,399.89,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""prospecting""}",09/07/2025 13:44
+o_2617,c_0547,2025-07-09T12:34:13Z,paid,EUR,€ 518.45,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""awareness""}",09/07/2025 17:56
+o_2618,c_0783,2025-07-09T08:29:42Z,PAID,GBP,£412.00,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""brand""}",09/07/2025 19:48
+o_2619,c_0364,2025/07/09 21:15:46-0500,paid,EUR,EUR 26.51,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""brand""}",09/07/2025 10:52
+o_2620,c_0181,2025-07-09T17:50:52Z,PAID,USD,$140.80,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""nonbrand""}",09/07/2025 12:56
+o_2621,c_0607,2025-07-09T19:01:25Z,PAID,GBP,£115.68,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""retargeting""}",09/07/2025 08:05
+o_2622,c_0483,2025-07-09T16:54:26Z,PAID,USD,188.44,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""retargeting""}",09/07/2025 18:59
+o_2623,c_0051,2025/07/09 07:51:37-0500,PAID,gbp,577.63,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""brand""}",09/07/2025 14:06
+o_2624,c_0763,2025-07-09T09:23:34Z,PAID,USD,USD 187.34,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""brand""}",09/07/2025 09:23
+o_2625,c_0268,09/07/2025 07:14,Fulfilled,usd,12.25,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""nonbrand""}",09/07/2025 15:44
+o_2626,c_0556,2025-07-09T14:13:47Z,Fulfilled,EUR,EUR 88.97,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""nonbrand""}",09/07/2025 14:57
+o_2627,c_0180,2025-07-09T17:39:49Z,Fulfilled,USD,USD 13.67,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""nonbrand""}",09/07/2025 08:01
+o_2628,c_0039,2025-07-10T11:01:02Z,Fulfilled,EUR,€ 270.41,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",10/07/2025 13:17
+o_2629,c_0084,2025-07-10T17:32:03Z,Fulfilled,GBP,216.08,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""retargeting""}",10/07/2025 13:18
+o_2630,c_0310,10/07/2025 18:14,PAID,USD,17.33,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",10/07/2025 18:09
+o_2631,c_0540,2025-07-10T15:13:48Z,paid,USD,$29.86,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""promo""}",10/07/2025 19:19
+o_2632,c_0340,2025-07-10T19:03:09Z,Refunded,CAD,C$236.20,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",10/07/2025 20:31
+o_2633,c_0349,2025-07-10T15:01:37Z,Cancelled,usd,USD 940.89,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""retargeting""}",10/07/2025 18:20
+o_2634,c_0182,10/07/2025 21:19,PAID,usd,"123,27","{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",10/07/2025 12:05
+o_2635,c_0061,2025-07-10T17:02:12Z,PAID,usd,USD 16.09,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",10/07/2025 13:33
+o_2636,c_0152,2025-07-10T14:52:09Z,paid,USD,USD 158.24,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""newsletter""}",10/07/2025 11:56
+o_2637,c_0722,10/07/2025 08:25,paid,CAD,371.55,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",10/07/2025 14:27
+o_2638,c_0714,2025-07-10T13:51:41Z,PAID,USD,USD 419.09,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""prospecting""}",10/07/2025 10:23
+o_2639,c_0106,2025-07-10T12:52:41Z,paid,USD,USD 574.38,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",10/07/2025 18:59
+o_2640,c_0406,2025-07-10T20:47:07Z,PAID,USD,$249.98,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",10/07/2025 17:50
+o_2641,c_0345,2025-07-10T18:01:36Z,PAID,USD,$514.90,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""prospecting""}",10/07/2025 10:03
+o_2642,c_0140,2025/07/10 07:07:51-0500,PAID,usd,USD 33.45,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""promo""}",10/07/2025 20:49
+o_2643,c_0750,10/07/2025 19:39,PAID,USD,$21.39,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",10/07/2025 17:25
+o_2644,c_0655,10/07/2025 16:09,PAID,USD,USD 218.77,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""promo""}",10/07/2025 08:24
+o_2645,c_0431,2025-07-11T19:40:59Z,PAID,USD,"52,56","{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""promo""}",11/07/2025 09:05
+o_2646,c_0711,11/07/2025 12:32,Fulfilled,EUR,EUR 168.09,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",11/07/2025 18:03
+o_2647,c_0366,2025-07-11T14:05:03Z,PAID,USD,$50.44,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""awareness""}",11/07/2025 20:07
+o_2648,c_0682,2025/07/11 12:53:35-0500,PAID,usd,$211.49,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""nonbrand""}",11/07/2025 18:31
+o_2649,c_0388,2025-07-11T11:42:49Z,paid,USD,USD 93.69,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""nonbrand""}",11/07/2025 16:45
+o_2650,c_0752,2025-07-11T12:19:01Z,PAID,USD,USD 313.38,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""newsletter""}",11/07/2025 08:13
+o_2651,c_0302,2025-07-11T16:08:54Z,PAID,CAD,CAD 305.64,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""prospecting""}",11/07/2025 19:53
+o_2652,c_0007,2025-07-11T07:09:17Z,Fulfilled,GBP,£284.02,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""awareness""}",11/07/2025 10:10
+o_2653,c_0587,2025-07-11T15:46:53Z,paid,USD,331.53,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""prospecting""}",11/07/2025 08:41
+o_2654,c_0034,11/07/2025 17:25,Refunded,USD,USD 211.39,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""nonbrand""}",11/07/2025 12:40
+o_2655,c_0326,2025-07-11T20:04:18Z,PAID,gbp,GBP 159.96,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",11/07/2025 17:30
+o_2656,c_0227,2025/07/11 09:51:12-0500,PAID,USD,$395.21,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""nonbrand""}",11/07/2025 13:07
+o_2657,c_0107,2025-07-11T19:07:09Z,paid,CAD,C$200.60,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""nonbrand""}",11/07/2025 08:42
+o_2658,c_0764,2025-07-12T13:49:31Z,PAID,usd,USD 243.61,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""prospecting""}",12/07/2025 16:21
+o_2659,c_0460,12/07/2025 10:54,Fulfilled,EUR,EUR 171.45,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""promo""}",12/07/2025 16:40
+o_2660,c_0124,2025-07-12T16:40:29Z,PAID,USD,USD 256.40,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",12/07/2025 21:46
+o_2661,c_0687,2025-07-12T14:10:07Z,PAID,USD,$728.58,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""prospecting""}",12/07/2025 16:36
+o_2662,c_0446,2025/07/12 15:39:41-0500,PAID,USD,$11.85,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",12/07/2025 16:30
+o_2663,c_0025,2025-07-12T08:22:11Z,Refunded,usd,USD 256.39,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""newsletter""}",12/07/2025 12:57
+o_2664,c_0344,2025-07-12T07:04:56Z,paid,USD,$257.06,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""awareness""}",12/07/2025 08:04
+o_2665,c_0098,12/07/2025 08:51,PAID,USD,"197,26","{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""retargeting""}",12/07/2025 19:22
+o_2666,c_0111,2025/07/12 09:50:39-0500,paid,CAD,CAD 790.40,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""awareness""}",12/07/2025 22:45
+o_2667,c_0050,2025-07-13T08:58:38Z,Refunded,GBP,GBP 12.50,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""retargeting""}",13/07/2025 11:56
+o_2668,c_0449,2025-07-13T10:29:03Z,paid,USD,USD 282.77,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",13/07/2025 21:48
+o_2669,c_0558,2025/07/13 15:51:11-0500,paid,USD,$110.40,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""awareness""}",13/07/2025 15:18
+o_2670,c_0505,2025-07-13T15:07:47Z,PAID,USD,35.24,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""promo""}",13/07/2025 20:18
+o_2671,c_0360,13/07/2025 17:29,PAID,USD,$20.64,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",13/07/2025 20:46
+o_2672,c_0385,2025-07-13T08:19:10Z,paid,USD,$161.26,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""brand""}",13/07/2025 21:24
+o_2673,c_0592,2025-07-14T07:13:58Z,paid,USD,$692.01,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""brand""}",14/07/2025 09:26
+o_2674,c_0231,2025-07-14T17:00:09Z,paid,usd,USD 73.83,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""nonbrand""}",14/07/2025 22:03
+o_2675,c_0463,2025/07/14 15:43:08-0500,PAID,GBP,GBP 127.81,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""nonbrand""}",14/07/2025 18:18
+o_2676,c_0396,2025-07-14T21:29:17Z,PAID,usd,$16.68,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""promo""}",14/07/2025 12:29
+o_2677,c_0327,2025/07/14 13:13:08-0500,PAID,EUR,EUR 75.77,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""newsletter""}",14/07/2025 20:17
+o_2678,c_0108,2025-07-14T13:53:22Z,paid,USD,$507.08,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""promo""}",14/07/2025 09:33
+o_2679,c_0236,14/07/2025 14:53,Fulfilled,USD,12.84,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""prospecting""}",14/07/2025 13:50
+o_2680,c_0165,2025-07-14T19:37:05Z,paid,usd,$286.35,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""nonbrand""}",14/07/2025 18:02
+o_2681,c_0077,2025/07/14 07:10:02-0500,PAID,USD,USD 106.59,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""nonbrand""}",14/07/2025 18:38
+o_2682,c_0347,2025-07-14T20:39:32Z,paid,USD,$478.63,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""retargeting""}",14/07/2025 15:34
+o_2683,c_0629,2025-07-14T08:31:22Z,Fulfilled,EUR,EUR 39.85,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""prospecting""}",14/07/2025 17:01
+o_2684,c_0670,2025-07-15T10:47:13Z,PAID,GBP,£203.73,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""prospecting""}",15/07/2025 17:57
+o_2685,c_0445,2025-07-15T20:04:20Z,PAID,USD,$69.98,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""prospecting""}",15/07/2025 20:02
+o_2686,c_0137,2025-07-15T19:51:40Z,PAID,USD,USD 226.00,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""retargeting""}",15/07/2025 08:32
+o_2687,c_0285,15/07/2025 07:27,paid,EUR,EUR 47.33,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""nonbrand""}",15/07/2025 22:50
+o_2688,c_0420,15/07/2025 15:37,PAID,CAD,CAD 635.54,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""promo""}",15/07/2025 16:15
+o_2689,c_0568,15/07/2025 16:58,PAID,USD,310.8,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""newsletter""}",15/07/2025 17:55
+o_2690,c_0748,15/07/2025 21:59,paid,EUR,€ 19.84,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""prospecting""}",15/07/2025 21:30
+o_2691,c_0360,2025/07/15 16:35:41-0500,Refunded,USD,$238.31,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""retargeting""}",15/07/2025 08:18
+o_2692,c_0289,2025-07-15T07:56:23Z,PAID,CAD,CAD 296.98,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""nonbrand""}",15/07/2025 08:53
+o_2693,c_0051,15/07/2025 16:06,PAID,gbp,GBP 10.42,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""prospecting""}",15/07/2025 11:44
+o_2694,c_0586,2025-07-15T08:20:45Z,paid,EUR,€ 50.54,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""prospecting""}",15/07/2025 22:39
+o_2695,c_0211,2025-07-15T18:55:24Z,paid,USD,$14.64,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""retargeting""}",15/07/2025 14:43
+o_2696,c_0370,2025/07/15 09:13:31-0500,PAID,CAD,C$39.83,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",15/07/2025 08:49
+o_2697,c_0120,2025-07-15T12:27:31Z,PAID,EUR,EUR 67.61,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""awareness""}",15/07/2025 21:04
+o_2698,c_0678,15/07/2025 20:21,PAID,USD,"404,42","{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""prospecting""}",15/07/2025 19:27
+o_2699,c_0275,2025-07-15T12:32:45Z,PAID,USD,$107.66,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""awareness""}",15/07/2025 12:26
+o_2700,c_0212,2025-07-15T20:35:06Z,paid,USD,$248.20,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""nonbrand""}",15/07/2025 17:13
+o_2701,c_0299,2025/07/16 18:37:12-0500,paid,USD,USD 505.71,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""retargeting""}",16/07/2025 11:26
+o_2702,c_0316,2025-07-16T20:33:48Z,Cancelled,usd,USD 10.41,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""brand""}",16/07/2025 20:42
+o_2703,c_0483,2025-07-16T10:23:38Z,Fulfilled,USD,USD 13.40,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",16/07/2025 20:39
+o_2704,c_0357,16/07/2025 12:15,Cancelled,usd,USD 851.42,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""retargeting""}",16/07/2025 09:06
+o_2705,c_0558,2025-07-16T12:30:39Z,Cancelled,usd,USD 9.31,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""awareness""}",16/07/2025 15:51
+o_2706,c_0254,16/07/2025 15:04,PAID,EUR,EUR 121.96,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""prospecting""}",16/07/2025 09:49
+o_2707,c_0482,2025-07-16T09:43:30Z,paid,USD,$76.28,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",16/07/2025 10:19
+o_2708,c_0046,2025/07/16 20:47:22-0500,PAID,GBP,£332.67,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",16/07/2025 20:24
+o_2709,c_0270,16/07/2025 17:14,PAID,USD,56.47,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""retargeting""}",16/07/2025 10:55
+o_2710,c_0276,2025/07/16 10:41:34-0500,PAID,cad,CAD 478.06,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""newsletter""}",16/07/2025 19:52
+o_2711,c_0064,16/07/2025 09:04,PAID,EUR,€ 34.24,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",16/07/2025 18:29
+o_2712,c_0771,2025-07-17T10:24:50Z,paid,USD,$792.29,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""retargeting""}",17/07/2025 16:35
+o_2713,c_0088,2025-07-17T12:50:40Z,PAID,USD,$254.97,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""prospecting""}",17/07/2025 10:20
+o_2714,c_0353,2025/07/17 12:15:45-0500,paid,CAD,CAD 33.10,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""retargeting""}",17/07/2025 12:51
+o_2715,c_0424,2025-07-17T17:37:01Z,PAID,USD,USD 235.13,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""promo""}",17/07/2025 09:48
+o_2716,c_0732,2025-07-17T17:31:04Z,paid,USD,$19.92,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",17/07/2025 11:51
+o_2717,c_0397,2025-07-17T19:51:23Z,Fulfilled,USD,USD 17.54,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""prospecting""}",17/07/2025 12:17
+o_2718,c_0550,2025-07-17T13:47:35Z,paid,EUR,€ 16.93,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",17/07/2025 18:11
+o_2719,c_0704,2025-07-17T11:47:22Z,PAID,EUR,EUR 12.38,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""newsletter""}",17/07/2025 17:21
+o_2720,c_0587,2025/07/17 19:28:17-0500,PAID,USD,$182.90,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",17/07/2025 10:33
+o_2721,c_0081,2025-07-17T08:41:43Z,PAID,USD,USD 10.62,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""prospecting""}",17/07/2025 21:20
+o_2722,c_0732,2025-07-17T11:00:27Z,PAID,USD,$194.16,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",17/07/2025 19:21
+o_2723,c_0530,2025-07-17T12:16:14Z,paid,EUR,EUR 148.93,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",17/07/2025 08:36
+o_2724,c_0694,2025-07-17T16:28:03Z,paid,USD,$138.22,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",17/07/2025 19:56
+o_2725,c_0151,2025-07-17T16:34:35Z,PAID,USD,$125.68,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""awareness""}",17/07/2025 09:08
+o_2726,c_0588,2025-07-17T08:55:21Z,PAID,USD,USD 31.47,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""retargeting""}",17/07/2025 17:29
+o_2727,c_0172,2025-07-18T21:13:20Z,PAID,USD,396.82,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",18/07/2025 21:53
+o_2728,c_0044,18/07/2025 07:38,PAID,EUR,EUR 157.44,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",18/07/2025 08:09
+o_2729,c_0700,2025/07/18 07:53:17-0500,paid,CAD,CAD 118.28,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",18/07/2025 10:34
+o_2730,c_0643,2025-07-18T07:16:04Z,PAID,USD,$53.67,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""retargeting""}",18/07/2025 09:58
+o_2731,c_0610,2025-07-18T20:51:32Z,paid,USD,USD 517.73,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""nonbrand""}",18/07/2025 21:23
+o_2732,c_0745,2025/07/18 07:43:44-0500,PAID,EUR,"€ 1,162.83","{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",18/07/2025 18:30
+o_2733,c_0398,2025/07/18 12:11:43-0500,paid,usd,$22.66,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""nonbrand""}",18/07/2025 18:48
+o_2734,c_0407,2025/07/18 10:46:11-0500,Refunded,EUR,161.12,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""nonbrand""}",18/07/2025 09:34
+o_2735,c_0283,2025-07-18T17:18:51Z,Refunded,USD,USD 34.98,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""retargeting""}",18/07/2025 10:21
+o_2736,c_0598,2025-07-18T15:34:14Z,PAID,gbp,£57.70,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""retargeting""}",18/07/2025 18:21
+o_2737,c_0766,2025-07-18T14:40:53Z,PAID,eur,EUR 67.06,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""promo""}",18/07/2025 12:12
+o_2738,c_0116,2025-07-18T13:52:12Z,PAID,USD,USD 46.52,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""awareness""}",18/07/2025 16:56
+o_2739,c_0152,19/07/2025 11:42,PAID,USD,437.3,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",19/07/2025 21:26
+o_2740,c_0603,2025-07-19T20:33:35Z,PAID,GBP,GBP 285.47,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",19/07/2025 20:16
+o_2741,c_0109,2025-07-19T13:07:46Z,PAID,USD,$137.10,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""awareness""}",19/07/2025 12:35
+o_2742,c_0135,19/07/2025 19:11,PAID,USD,"589,33","{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""newsletter""}",19/07/2025 18:13
+o_2743,c_0533,2025-07-19T15:18:11Z,PAID,cad,C$70.99,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",19/07/2025 22:50
+o_2744,c_0393,19/07/2025 13:31,PAID,CAD,C$713.42,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""promo""}",19/07/2025 20:42
+o_2745,c_0498,2025-07-19T19:30:16Z,PAID,USD,$384.75,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",19/07/2025 20:53
+o_2746,c_0485,19/07/2025 16:35,Refunded,USD,$46.89,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",19/07/2025 14:49
+o_2747,c_0283,2025-07-19T11:58:05Z,PAID,USD,USD 11.33,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",19/07/2025 13:54
+o_2748,c_0148,2025/07/20 13:48:04-0500,paid,USD,$449.43,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""brand""}",20/07/2025 14:51
+o_2749,c_0698,2025-07-20T12:58:07Z,PAID,EUR,€ 243.97,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""prospecting""}",20/07/2025 15:38
+o_2750,c_0412,2025-07-20T18:36:01Z,PAID,USD,USD 18.07,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""retargeting""}",20/07/2025 20:44
+o_2751,c_0406,2025/07/20 18:47:02-0500,paid,USD,344.8,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""prospecting""}",20/07/2025 12:59
+o_2752,c_0708,2025/07/20 13:23:24-0500,paid,USD,$53.39,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""retargeting""}",20/07/2025 21:14
+o_2753,c_0051,2025-07-20T10:16:32Z,paid,GBP,GBP 394.34,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""brand""}",20/07/2025 12:19
+o_2754,c_0477,2025-07-21T10:43:17Z,paid,EUR,EUR 48.68,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""brand""}",21/07/2025 17:14
+o_2755,c_0346,2025-07-21T10:20:53Z,paid,EUR,€ 329.88,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""retargeting""}",21/07/2025 09:57
+o_2756,c_0288,2025-07-21T08:28:09Z,PAID,EUR,€ 11.47,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",21/07/2025 09:21
+o_2757,c_0713,2025-07-21T19:06:42Z,PAID,USD,$762.25,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",21/07/2025 08:37
+o_2758,c_0131,2025-07-21T18:31:11Z,PAID,USD,$132.51,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""retargeting""}",21/07/2025 20:44
+o_2759,c_0308,2025/07/21 10:01:47-0500,PAID,CAD,C$862.71,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""brand""}",21/07/2025 14:46
+o_2760,c_0576,2025-07-21T17:21:26Z,PAID,usd,USD 230.31,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""brand""}",21/07/2025 11:06
+o_2761,c_0747,2025-07-21T13:38:16Z,paid,EUR,36.11,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",21/07/2025 21:37
+o_2762,c_0784,2025/07/21 20:08:18-0500,Fulfilled,USD,USD 180.87,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",21/07/2025 20:04
+o_2763,c_0092,2025/07/21 20:14:48-0500,paid,usd,52.25,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""prospecting""}",21/07/2025 19:08
+o_2764,c_0453,21/07/2025 12:00,Fulfilled,USD,$42.08,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",21/07/2025 08:08
+o_2765,c_0417,2025-07-21T17:37:23Z,PAID,CAD,C$230.33,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""newsletter""}",21/07/2025 16:46
+o_2766,c_0497,2025-07-21T11:43:47Z,PAID,CAD,CAD 22.01,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""awareness""}",21/07/2025 15:50
+o_2767,c_0383,2025/07/21 17:56:47-0500,PAID,GBP,GBP 136.64,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""brand""}",21/07/2025 10:43
+o_2768,c_0093,21/07/2025 21:18,paid,USD,USD 73.00,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",21/07/2025 09:31
+o_2769,c_0727,2025-07-22T17:53:04Z,PAID,USD,$20.95,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""retargeting""}",22/07/2025 19:51
+o_2770,c_0414,2025-07-22T07:22:45Z,PAID,EUR,52.76,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",22/07/2025 10:55
+o_2771,c_0583,2025-07-22T09:34:19Z,Cancelled,USD,$51.45,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",22/07/2025 12:18
+o_2772,c_0198,2025-07-22T07:25:50Z,PAID,USD,"129,41","{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""prospecting""}",22/07/2025 22:57
+o_2773,c_0256,2025-07-22T20:15:15Z,Fulfilled,GBP,GBP 274.36,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""prospecting""}",22/07/2025 18:32
+o_2774,c_0370,2025-07-22T07:20:44Z,PAID,CAD,CAD 558.97,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""prospecting""}",22/07/2025 14:49
+o_2775,c_0204,2025-07-22T20:30:38Z,PAID,USD,USD 77.02,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""awareness""}",22/07/2025 12:41
+o_2776,c_0378,22/07/2025 07:30,Fulfilled,CAD,CAD 15.09,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""awareness""}",22/07/2025 15:13
+o_2777,c_0518,2025/07/22 12:06:48-0500,PAID,USD,$267.91,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",22/07/2025 21:30
+o_2778,c_0127,22/07/2025 20:25,paid,usd,$275.75,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""newsletter""}",22/07/2025 10:11
+o_2779,c_0473,2025/07/22 17:22:25-0500,paid,USD,USD 15.52,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",22/07/2025 10:41
+o_2780,c_0609,2025/07/22 18:34:11-0500,PAID,USD,$322.67,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",22/07/2025 16:24
+o_2781,c_0601,2025/07/22 08:51:38-0500,paid,EUR,€ 20.45,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",22/07/2025 22:47
+o_2782,c_0446,2025-07-23T15:47:00Z,Refunded,USD,USD 149.16,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""prospecting""}",23/07/2025 09:17
+o_2783,c_0168,2025-07-23T12:25:30Z,Fulfilled,USD,75.48,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""prospecting""}",23/07/2025 20:09
+o_2784,c_0120,23/07/2025 12:19,Fulfilled,EUR,EUR 179.92,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""nonbrand""}",23/07/2025 14:23
+o_2785,c_0029,2025-07-23T20:32:39Z,Fulfilled,EUR,€ 22.43,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",23/07/2025 12:43
+o_2786,c_0073,23/07/2025 21:42,PAID,USD,$33.39,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""nonbrand""}",23/07/2025 14:54
+o_2787,c_0586,2025-07-23T10:29:46Z,PAID,EUR,€ 652.36,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""awareness""}",23/07/2025 17:51
+o_2788,c_0297,23/07/2025 12:31,paid,USD,$426.58,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""retargeting""}",23/07/2025 13:24
+o_2789,c_0668,2025-07-23T16:52:27Z,PAID,GBP,56.35,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",23/07/2025 21:02
+o_2790,c_0021,2025-07-23T19:19:55Z,PAID,USD,"218,34","{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""nonbrand""}",23/07/2025 13:04
+o_2791,c_0010,23/07/2025 19:37,Refunded,USD,$27.95,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""promo""}",23/07/2025 15:02
+o_2792,c_0136,2025/07/23 20:47:39-0500,Fulfilled,USD,USD 187.76,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",23/07/2025 14:27
+o_2793,c_0231,23/07/2025 16:36,PAID,USD,"376,43","{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""promo""}",23/07/2025 15:15
+o_2794,c_0019,2025-07-24T18:47:01Z,Fulfilled,USD,USD 137.63,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",24/07/2025 22:50
+o_2795,c_0623,24/07/2025 20:31,PAID,EUR,261.96,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",24/07/2025 12:05
+o_2796,c_0282,2025/07/24 08:29:38-0500,paid,USD,USD 25.06,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",24/07/2025 11:40
+o_2797,c_0477,2025/07/24 12:04:36-0500,PAID,EUR,262.61,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""promo""}",24/07/2025 12:00
+o_2798,c_0224,2025-07-24T07:10:22Z,PAID,EUR,EUR 13.54,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",24/07/2025 09:03
+o_2799,c_0310,2025-07-24T12:19:04Z,paid,usd,$658.48,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""awareness""}",24/07/2025 09:03
+o_2800,c_0534,2025/07/24 15:00:11-0500,paid,GBP,GBP 428.43,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""retargeting""}",24/07/2025 13:47
+o_2801,c_0105,2025/07/24 11:15:55-0500,PAID,USD,$61.10,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",24/07/2025 17:08
+o_2802,c_0679,2025-07-24T09:43:25Z,PAID,CAD,C$300.31,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""prospecting""}",24/07/2025 21:49
+o_2803,c_0624,24/07/2025 14:53,PAID,USD,"402,80","{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""retargeting""}",24/07/2025 19:54
+o_2804,c_0701,24/07/2025 21:16,paid,usd,153.86,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",24/07/2025 22:53
+o_2805,c_0090,2025-07-24T13:31:57Z,PAID,USD,$255.84,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""prospecting""}",24/07/2025 17:47
+o_2806,c_0284,2025-07-24T18:19:44Z,PAID,gbp,£243.06,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""prospecting""}",24/07/2025 09:16
+o_2807,c_0419,2025/07/25 17:10:21-0500,Fulfilled,USD,86.66,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""retargeting""}",25/07/2025 10:01
+o_2808,c_0268,2025/07/25 07:56:53-0500,PAID,USD,$437.04,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""awareness""}",25/07/2025 22:27
+o_2809,c_0729,2025/07/25 11:52:54-0500,PAID,USD,USD 417.98,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""nonbrand""}",25/07/2025 18:13
+o_2810,c_0154,2025-07-25T10:15:16Z,paid,USD,USD 87.86,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""prospecting""}",25/07/2025 12:07
+o_2811,c_0059,2025-07-25T21:49:23Z,Cancelled,EUR,€ 149.41,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""prospecting""}",25/07/2025 08:13
+o_2812,c_0414,2025/07/25 20:55:38-0500,Fulfilled,EUR,EUR 351.14,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""retargeting""}",25/07/2025 17:44
+o_2813,c_0739,2025/07/25 14:56:52-0500,Fulfilled,USD,237.86,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""retargeting""}",25/07/2025 10:12
+o_2814,c_0510,2025-07-25T09:51:04Z,PAID,usd,$368.91,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""promo""}",25/07/2025 10:31
+o_2815,c_0429,2025-07-25T17:16:09Z,PAID,USD,USD 241.54,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""awareness""}",25/07/2025 22:54
+o_2816,c_0755,2025-07-25T21:19:12Z,Fulfilled,EUR,EUR 32.19,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",25/07/2025 09:15
+o_2817,c_0598,2025-07-25T11:50:58Z,paid,gbp,"267,34","{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""retargeting""}",25/07/2025 16:03
+o_2818,c_0586,2025-07-25T08:35:06Z,PAID,eur,EUR 256.76,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",25/07/2025 14:44
+o_2819,c_0744,2025-07-25T17:02:41Z,Cancelled,USD,$467.02,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""nonbrand""}",25/07/2025 08:26
+o_2820,c_0228,2025-07-26T16:47:37Z,PAID,GBP,£207.56,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",26/07/2025 22:13
+o_2821,c_0548,2025-07-26T10:50:09Z,PAID,USD,$189.46,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""brand""}",26/07/2025 10:12
+o_2822,c_0609,2025-07-26T14:00:20Z,PAID,USD,USD 371.62,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""retargeting""}",26/07/2025 20:33
+o_2823,c_0387,2025-07-26T13:02:16Z,paid,USD,$35.68,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""brand""}",26/07/2025 10:44
+o_2824,c_0674,2025/07/26 10:35:48-0500,Fulfilled,CAD,C$20.65,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""retargeting""}",26/07/2025 20:35
+o_2825,c_0186,2025-07-26T09:42:00Z,Cancelled,USD,USD 198.52,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""promo""}",26/07/2025 09:24
+o_2826,c_0483,2025-07-26T16:59:31Z,paid,USD,USD 55.80,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",26/07/2025 20:35
+o_2827,c_0759,2025-07-26T20:43:10Z,PAID,USD,USD 156.69,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""promo""}",26/07/2025 11:21
+o_2828,c_0782,2025-07-26T07:57:57Z,PAID,USD,USD 32.44,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",26/07/2025 20:24
+o_2829,c_0697,26/07/2025 08:43,PAID,usd,USD 629.59,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""prospecting""}",26/07/2025 18:25
+o_2830,c_0119,2025/07/26 20:05:52-0500,PAID,EUR,EUR 41.18,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""brand""}",26/07/2025 13:46
+o_2831,c_0364,2025/07/27 17:19:09-0500,paid,EUR,138.59,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",27/07/2025 14:19
+o_2832,c_0340,2025/07/27 20:12:25-0500,Refunded,CAD,CAD 415.07,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",27/07/2025 10:43
+o_2833,c_0381,2025/07/27 15:13:06-0500,Fulfilled,usd,124.92,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",27/07/2025 15:34
+o_2834,c_0482,27/07/2025 07:58,PAID,USD,$933.57,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""prospecting""}",27/07/2025 17:22
+o_2835,c_0595,2025/07/27 18:19:53-0500,Refunded,USD,$149.24,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""retargeting""}",27/07/2025 16:39
+o_2836,c_0073,2025-07-27T12:15:14Z,paid,USD,$97.39,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""retargeting""}",27/07/2025 09:15
+o_2837,c_0513,2025-07-27T08:34:57Z,paid,USD,472.68,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""brand""}",27/07/2025 08:10
+o_2838,c_0483,27/07/2025 12:15,PAID,USD,"95,47","{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""prospecting""}",27/07/2025 12:31
+o_2839,c_0424,2025/07/28 19:37:38-0500,PAID,USD,$304.89,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",28/07/2025 18:44
+o_2840,c_0206,28/07/2025 12:51,PAID,GBP,£136.41,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""prospecting""}",28/07/2025 17:05
+o_2841,c_0420,2025/07/28 11:36:39-0500,PAID,CAD,C$140.38,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""retargeting""}",28/07/2025 12:45
+o_2842,c_0469,2025-07-28T19:55:44Z,PAID,USD,$748.54,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",28/07/2025 20:52
+o_2843,c_0110,2025-07-28T09:50:04Z,Fulfilled,USD,$320.13,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",28/07/2025 21:41
+o_2844,c_0647,2025-07-28T19:19:00Z,PAID,GBP,£26.14,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""brand""}",28/07/2025 08:19
+o_2845,c_0403,28/07/2025 17:17,PAID,EUR,EUR 212.02,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""brand""}",28/07/2025 11:32
+o_2846,c_0060,2025-07-28T14:32:20Z,PAID,USD,$35.64,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""retargeting""}",28/07/2025 19:31
+o_2847,c_0579,2025-07-28T09:23:43Z,PAID,CAD,C$137.56,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""prospecting""}",28/07/2025 15:30
+o_2848,c_0215,28/07/2025 21:50,PAID,EUR,EUR 211.92,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",28/07/2025 14:07
+o_2849,c_0211,2025-07-28T11:40:38Z,Fulfilled,USD,$14.64,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""retargeting""}",28/07/2025 21:49
+o_2850,c_0118,2025/07/28 08:09:56-0500,PAID,eur,€ 234.30,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""prospecting""}",28/07/2025 12:44
+o_2851,c_0649,2025/07/28 16:45:51-0500,PAID,USD,USD 31.02,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""retargeting""}",28/07/2025 08:23
+o_2852,c_0414,2025-07-28T19:28:33Z,PAID,EUR,€ 12.67,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""promo""}",28/07/2025 09:08
+o_2853,c_0489,2025-07-28T17:08:14Z,paid,CAD,CAD 11.42,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""retargeting""}",28/07/2025 13:14
+o_2854,c_0005,2025/07/28 15:45:39-0500,paid,USD,36.42,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",28/07/2025 16:36
+o_2855,c_0261,28/07/2025 13:01,PAID,USD,$289.12,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""promo""}",28/07/2025 20:56
+o_2856,c_0383,2025-07-29T13:51:58Z,PAID,GBP,£19.20,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",29/07/2025 11:00
+o_2857,c_0412,2025-07-29T11:50:43Z,paid,USD,USD 78.90,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",29/07/2025 15:02
+o_2858,c_0693,2025/07/29 07:19:25-0500,PAID,EUR,€ 198.68,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",29/07/2025 13:34
+o_2859,c_0752,2025-07-29T17:11:43Z,PAID,USD,"500,88","{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",29/07/2025 11:15
+o_2860,c_0399,2025/07/29 13:54:29-0500,Refunded,EUR,€ 36.84,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",29/07/2025 10:30
+o_2861,c_0134,2025-07-29T14:48:26Z,PAID,EUR,€ 12.12,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""prospecting""}",29/07/2025 21:23
+o_2862,c_0516,2025/07/29 21:33:02-0500,PAID,usd,268.79,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""promo""}",29/07/2025 19:07
+o_2863,c_0090,2025-07-29T21:07:06Z,PAID,USD,USD 55.05,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""awareness""}",29/07/2025 09:01
+o_2864,c_0306,2025-07-29T12:19:59Z,paid,USD,178.7,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",29/07/2025 18:23
+o_2865,c_0758,2025-07-29T19:06:47Z,PAID,EUR,€ 23.37,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""retargeting""}",29/07/2025 15:06
+o_2866,c_0346,2025/07/29 14:48:07-0500,PAID,EUR,EUR 252.74,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""prospecting""}",29/07/2025 22:09
+o_2867,c_0138,2025-07-29T16:02:35Z,PAID,USD,$116.69,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""prospecting""}",29/07/2025 20:18
+o_2868,c_0502,2025-07-29T16:29:43Z,PAID,usd,USD 240.40,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""prospecting""}",29/07/2025 18:01
+o_2869,c_0169,2025-07-29T09:24:20Z,Refunded,USD,USD 32.23,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""awareness""}",29/07/2025 16:16
+o_2870,c_0234,2025-07-29T12:17:11Z,PAID,USD,USD 53.29,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",29/07/2025 16:10
+o_2871,c_0745,2025/07/29 13:09:53-0500,paid,EUR,EUR 84.98,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""retargeting""}",29/07/2025 09:05
+o_2872,c_0278,2025-07-30T12:46:35Z,paid,EUR,EUR 649.67,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""newsletter""}",30/07/2025 09:30
+o_2873,c_0604,2025-07-30T21:51:43Z,PAID,USD,USD 428.85,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""prospecting""}",30/07/2025 12:12
+o_2874,c_0376,2025/07/30 12:25:38-0500,Cancelled,gbp,GBP 289.91,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""awareness""}",30/07/2025 10:32
+o_2875,c_0667,30/07/2025 21:50,PAID,USD,$17.15,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""prospecting""}",30/07/2025 15:49
+o_2876,c_0385,2025-07-30T10:57:13Z,PAID,USD,USD 186.66,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""newsletter""}",30/07/2025 21:14
+o_2877,c_0262,2025-07-30T21:39:17Z,Fulfilled,EUR,EUR 19.13,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""prospecting""}",30/07/2025 08:35
+o_2878,c_0784,2025/07/30 21:25:35-0500,Fulfilled,USD,$15.37,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""nonbrand""}",30/07/2025 11:44
+o_2879,c_0609,2025-07-30T15:51:10Z,Cancelled,USD,$259.38,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""retargeting""}",30/07/2025 18:19
+o_2880,c_0139,2025-07-30T19:27:53Z,PAID,USD,262.31,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""retargeting""}",30/07/2025 17:08
+o_2881,c_0050,2025-07-30T07:57:43Z,PAID,GBP,GBP 502.71,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""nonbrand""}",30/07/2025 21:46
+o_2882,c_0529,30/07/2025 20:05,PAID,USD,USD 203.32,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""prospecting""}",30/07/2025 13:30
+o_2883,c_0561,2025-07-31T17:42:12Z,PAID,EUR,EUR 86.18,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""awareness""}",31/07/2025 20:26
+o_2884,c_0198,2025-07-31T18:37:02Z,PAID,USD,287.85,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""retargeting""}",31/07/2025 20:23
+o_2885,c_0792,2025-07-31T09:13:58Z,PAID,USD,$209.99,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""brand""}",31/07/2025 13:00
+o_2886,c_0533,2025/07/31 17:01:09-0500,PAID,CAD,C$384.60,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",31/07/2025 18:41
+o_2887,c_0346,2025-07-31T14:50:32Z,Fulfilled,EUR,€ 700.95,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""retargeting""}",31/07/2025 22:46
+o_2888,c_0429,2025-07-31T20:13:31Z,PAID,usd,USD 240.42,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""prospecting""}",31/07/2025 22:15
+o_2889,c_0524,2025/07/31 21:01:29-0500,PAID,USD,$271.68,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""prospecting""}",31/07/2025 18:43
+o_2890,c_0633,31/07/2025 12:42,PAID,usd,90.7,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""newsletter""}",31/07/2025 15:08
+o_2891,c_0364,2025-07-31T13:20:35Z,Refunded,EUR,€ 403.70,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""brand""}",31/07/2025 08:54
+o_2892,c_0630,2025-07-31T13:27:28Z,paid,USD,USD 516.75,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",31/07/2025 09:23
+o_2893,c_0797,2025/07/31 10:06:40-0500,Cancelled,USD,$97.10,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""retargeting""}",31/07/2025 17:46
+o_2894,c_0536,2025/07/31 09:00:56-0500,PAID,USD,USD 398.96,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""retargeting""}",31/07/2025 08:47
+o_2895,c_0721,2025-07-31T14:04:48Z,Fulfilled,USD,$9.60,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",31/07/2025 17:20
+o_2896,c_0303,2025/07/31 20:16:58-0500,paid,USD,$33.74,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""retargeting""}",31/07/2025 22:38
+o_2897,c_0062,2025/07/31 17:28:28-0500,PAID,USD,USD 186.58,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""retargeting""}",31/07/2025 10:13
+o_2154,c_0380,30/05/2025 17:56,Fulfilled,USD,USD 234.90,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""prospecting""}",24/07/2025 11:10
+o_1849,c_0655,2025-05-07T19:08:04Z,PAID,usd,$16.39,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""promo""}",27/07/2025 09:25
+o_1819,c_0465,2025-05-05T09:50:07Z,PAID,cad,"220,11","{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""retargeting""}",12/07/2025 18:35
+o_2367,c_0711,2025-06-18T15:05:23Z,Fulfilled,EUR,EUR 256.60,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""retargeting""}",31/07/2025 21:54
+o_2160,c_0488,2025/05/31 07:43:53-0500,PAID,USD,USD 336.39,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",05/07/2025 12:42
+o_1353,c_0314,2025-03-30T11:40:52Z,paid,usd,USD 460.80,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",27/07/2025 22:31
+o_1557,c_0792,2025-04-14T11:53:32Z,PAID,USD,$9.61,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""prospecting""}",28/07/2025 21:58
+o_2379,c_0780,2025-06-19T15:52:59Z,paid,USD,USD 43.47,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",17/07/2025 13:14
+o_1496,c_0392,2025-04-10T08:12:38Z,PAID,cad,CAD 189.09,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""newsletter""}",16/07/2025 18:54
+o_1459,c_0744,07/04/2025 17:28,PAID,USD,USD 99.14,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""nonbrand""}",28/07/2025 13:36
+o_1430,c_0071,2025/04/04 08:57:13-0500,Fulfilled,USD,117.18,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""awareness""}",24/07/2025 21:48
+o_2452,c_0141,26/06/2025 08:26,paid,USD,$38.59,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""newsletter""}",18/07/2025 09:43
+o_1427,c_0186,2025-04-04T12:44:44Z,PAID,USD,$30.24,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""retargeting""}",22/07/2025 16:25
+o_2137,c_0063,2025-05-29T09:06:14Z,PAID,USD,USD 23.22,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""retargeting""}",21/07/2025 22:15
+o_1035,c_0624,04/03/2025 15:20,Fulfilled,USD,USD 705.68,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""awareness""}",22/07/2025 15:30
+o_1351,c_0498,2025-03-30T13:56:35Z,PAID,USD,$337.98,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",18/07/2025 20:14
+o_2022,c_0686,2025-05-21T16:04:56Z,Fulfilled,eur,EUR 19.43,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""awareness""}",22/07/2025 10:37
+o_1371,c_0423,2025/03/31 08:24:23-0500,paid,usd,USD 172.44,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""retargeting""}",05/07/2025 10:15
+o_2175,c_0268,2025-06-02T11:59:03Z,paid,usd,"19,06","{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""promo""}",24/07/2025 09:18
+o_2301,c_0460,2025-06-12T12:19:05Z,Fulfilled,EUR,€ 177.17,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""retargeting""}",16/07/2025 19:37
+o_2063,c_0640,24/05/2025 11:28,PAID,USD,$85.56,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""awareness""}",12/07/2025 19:29
+o_2117,c_0236,2025-05-28T08:58:42Z,Fulfilled,USD,$203.63,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""newsletter""}",05/07/2025 13:47
+o_2306,c_0369,2025/06/13 19:22:12-0500,PAID,USD,$555.03,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""brand""}",06/07/2025 13:39
+o_2351,c_0655,2025/06/17 08:30:55-0500,paid,USD,$307.87,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",25/07/2025 11:47
+o_2140,c_0438,2025-05-29T19:05:38Z,Fulfilled,eur,67.07,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""brand""}",15/07/2025 21:10
+o_1307,c_0477,26/03/2025 16:29,PAID,EUR,EUR 324.43,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""newsletter""}",20/07/2025 13:45
+o_1697,c_0349,2025-04-25T08:08:55Z,Fulfilled,USD,$507.28,"{""source"": ""display"", ""medium"": ""display"", ""campaign"": ""awareness""}",28/07/2025 19:52
+o_1145,c_0229,13/03/2025 12:35,paid,USD,USD 50.88,"{""source"": ""paid_social"", ""medium"": ""paid_social"", ""campaign"": ""awareness""}",28/07/2025 11:32
+o_2414,c_0643,23/06/2025 13:54,paid,USD,$10.15,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""brand""}",10/07/2025 13:18
+o_1617,c_0781,18/04/2025 16:16,Fulfilled,usd,USD 196.19,"{""source"": ""search"", ""medium"": ""cpc"", ""campaign"": ""nonbrand""}",05/07/2025 10:07
