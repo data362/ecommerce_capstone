@@ -1,0 +1,5 @@
+raw_channel	canonical_channel	paid_flag
+google	search	TRUE
+meta	paid_social	TRUE
+email	email	FALSE
+display	display	TRUE
