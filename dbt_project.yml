@@ -28,4 +28,5 @@ models:
       +materialized: table
 
 seeds:
-  +schema: "raw"
+  +database: ae-capstone-demo
+  +schema: dbt_data362_raw 

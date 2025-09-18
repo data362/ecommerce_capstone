@@ -1,0 +1,21 @@
+version: 2
+
+sources:
+  - name: raw
+    database: ae-capstone-demo
+    schema: dbt_data362_raw
+    tables:
+      - name: orders_raw
+      - name: seed_currency_fx_rates
+      - name: ad_spend_batch1
+      - name: ad_spend_batch2
+      - name: customers_batch1
+      - name: customers_batch2
+      - name: orders_items_batch1
+      - name: orders_items_batch2
+      - name: seed_channel_map
+      - name: seed_product_map
+      - name: orders_batch1
+      - name: orders_batch2
+      
+      
